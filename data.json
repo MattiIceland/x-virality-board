@@ -1,84 +1,1688 @@
 {
-  "title": "Daily X narrative digest",
-  "date": "2026-10-26",
-  "timezone": "Atlantic/Reykjavik",
-  "updated": "2026-10-26T16:00:00+00:00",
-  "brand_title": "MattiIceland X Virality Score",
-  "brand_handle": "@MattiIceland",
-  "hits": [],
-  "virals": [],
-  "outsiders": [],
-  "patterns": [],
-  "no_hits": [],
-  "virals_narrative": "No digest yet.",
-  "narrative_synthesis": "No digest yet.",
-  "virals_window": "last ~48h",
-  "virals_target": 20,
+ "title": "Daily X narrative digest - 2026-10-26 (first run, Iran / Pahlavi niche)",
+ "date": "2026-10-26",
+ "timezone": "Atlantic/Reykjavik",
+ "updated": "2026-10-26T16:30:00+00:00",
+ "brand_title": "MattiIceland X Virality Score",
+ "brand_handle": "@MattiIceland",
+ "hits": [
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 475762,
+   "views_label": "476K",
+   "highlight": true,
+   "url": "https://x.com/realMaalouf/status/2114448242167464395",
+   "id": "2114448242167464395",
+   "posted_at": "2026-10-25T20:05:20.000Z",
+   "hook": "Muslims have killed more than 600 million non-Muslims since 622. \n\nBut if you point this out, they’ll say it’s Islamophobia. t.co/iMXAm2WuGg",
+   "likes": 26292,
+   "reposts": 10075,
+   "replies": 716,
+   "quotes": 460,
+   "media": true,
+   "why_hit_text": "Broad Muslims-vs-non-Muslims claim; huge reach comes from outrage and quote-fights, not Iran niche.",
+   "video_tip": "Off-niche for Iran. No draft: an unsourced sweeping claim about all Muslims is not something to repost; if you cover religion and politics, contrast the Islamic Republic's ideology with ordinary Iranians instead.",
+   "original_en": "Muslims have killed more than 600 million non-Muslims since 622. \n\nBut if you point this out, they’ll say it’s Islamophobia. https://t.co/iMXAm2WuGg",
+   "window": "last 48h",
+   "top10_rank": 1,
+   "self_quote": false,
+   "draft_withheld": "Off-niche for Iran. No draft: an unsourced sweeping claim about all Muslims is not something to repost; if you cover religion and politics, contrast the Islamic Republic's ideology with ordinary Iranians instead."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 280002,
+   "views_label": "280K",
+   "highlight": true,
+   "url": "https://x.com/realMaalouf/status/2114331102198538490",
+   "id": "2114331102198538490",
+   "posted_at": "2026-10-25T12:19:51.000Z",
+   "hook": "An honest ‘student protester’ in France explains why he’s protesting.\n\nThe question: “Why are you protesting?”\n\nHe replies: “I don’t know. I’m just here to smash and destroy things.”\n\nBut they just want a better education, you guys. t.co/p7rKypUlZO",
+   "likes": 26006,
+   "reposts": 9860,
+   "replies": 1159,
+   "quotes": 416,
+   "media": true,
+   "why_hit_text": "Short street-interview clip with a punchline; sarcasm on the last line drives replies.",
+   "video_tip": "Use a 15-20s vertical clip with burned-in English captions and a one-line punchline as the first frame. Iran angle: intercut real protest footage from inside Iran to show the contrast between genuine demands and a riot.",
+   "original_en": "An honest ‘student protester’ in France explains why he’s protesting.\n\nThe question: “Why are you protesting?”\n\nHe replies: “I don’t know. I’m just here to smash and destroy things.”\n\nBut they just want a better education, you guys. https://t.co/p7rKypUlZO",
+   "window": "last 48h",
+   "top10_rank": 2,
+   "self_quote": false,
+   "draft_en": "A protester in France was asked why he was out there. His answer: he has no idea, he is just there to smash things up.\n\nBut sure, it is all about a better education.",
+   "draft_keywords": []
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 263600,
+   "views_label": "264K",
+   "highlight": true,
+   "url": "https://x.com/realMaalouf/status/2114630045234807244",
+   "id": "2114630045234807244",
+   "posted_at": "2026-10-26T08:07:45.000Z",
+   "hook": "Wow, this is what Yemen looked like in the 1960s under British rule. That was over half a century ago, but it looked decades more advanced than Yemen does today.\n\nIt’s almost unbelievable compared to what the country has become. And it’s a testament to how quickly a country can collapse once Islam reigns supreme.",
+   "likes": 11884,
+   "reposts": 3840,
+   "replies": 371,
+   "quotes": 158,
+   "media": true,
+   "why_hit_text": "Then-vs-now footage plus a collapse thesis: simple contrast format that travels fast.",
+   "video_tip": "Do this for Iran: a split-screen of Tehran before 1979 and today under the Islamic Republic, 20-30s, silent footage with 2-3 caption beats, music low. Source clips with credit.",
+   "original_en": "Wow, this is what Yemen looked like in the 1960s under British rule. That was over half a century ago, but it looked decades more advanced than Yemen does today.\n\nIt’s almost unbelievable compared to what the country has become. And it’s a testament to how quickly a country can collapse once Islam reigns supreme.",
+   "window": "last 48h",
+   "top10_rank": 3,
+   "self_quote": false,
+   "draft_en": "Yemen in the 1960s, under British rule, looked decades ahead of Yemen today. Watching it is hard to believe.\n\nIt shows how fast a country can fall apart once an extremist ideology takes over - something Iranians know too well, as the Islamic Republic did to Iran. Free Iran, Javid Shah.",
+   "draft_keywords": [
+    "Islamic Republic",
+    "Javid Shah"
+   ],
+   "draft_note": "Adapted: original blames Islam in general; this draft narrows it to the Islamic Republic and adds the Pahlavi tag. Check it matches your voice before posting."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 140201,
+   "views_label": "140K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114212766277833048",
+   "id": "2114212766277833048",
+   "posted_at": "2026-10-25T04:29:38.000Z",
+   "hook": "Black woman explains why she won’t vote for Abdul El-Sayed, and the devastation that Muslims brought to the black community in Michigan.\n\nShe’s absolutely right to be wary of Arabs and Muslims. All black people should. \n\nThe Muslim slave trade was 100 times worse than the Atlantic slave trade, and it’s still ongoing. Most Arabs use the term “abeed”, which means slaves, to refer to black people.",
+   "likes": 14464,
+   "reposts": 5172,
+   "replies": 255,
+   "quotes": 141,
+   "media": true,
+   "why_hit_text": "Clip of a woman speaking plus an ethnic-slavery claim; heavy quote/outrage engagement.",
+   "video_tip": "Off-niche. No draft: generalised claims about Muslims/Arabs as a group.",
+   "original_en": "Black woman explains why she won’t vote for Abdul El-Sayed, and the devastation that Muslims brought to the black community in Michigan.\n\nShe’s absolutely right to be wary of Arabs and Muslims. All black people should. \n\nThe Muslim slave trade was 100 times worse than the Atlantic slave trade, and it’s still ongoing. Most Arabs use the term “abeed”, which means slaves, to refer to black people.",
+   "window": "last 48h",
+   "top10_rank": 4,
+   "self_quote": false,
+   "draft_withheld": "Off-niche. No draft: generalised claims about Muslims/Arabs as a group."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 110890,
+   "views_label": "111K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114519865591730671",
+   "id": "2114519865591730671",
+   "posted_at": "2026-10-26T00:49:56.000Z",
+   "hook": "WTF just happened in Brazil?!?",
+   "likes": 4611,
+   "reposts": 210,
+   "replies": 390,
+   "quotes": 15,
+   "media": false,
+   "why_hit_text": "Two-word hook on breaking news; curiosity gap, no content in the text.",
+   "video_tip": "Pattern to copy: a one-line 'WTF just happened in X?' hook with a single image. Not usable for Iran unless you have a verified event.",
+   "original_en": "WTF just happened in Brazil?!?",
+   "window": "last 48h",
+   "top10_rank": 5,
+   "self_quote": false,
+   "draft_withheld": "No draft: media-only post without enough context to rewrite."
+  },
+  {
+   "name": "Hediyeh Kimiaee",
+   "handle": "@hediekimiaee",
+   "views": 103157,
+   "views_label": "103K",
+   "highlight": false,
+   "url": "https://x.com/hediekimiaee/status/2112844643687878663",
+   "id": "2112844643687878663",
+   "posted_at": "2026-10-21T09:53:12.000Z",
+   "hook": "[7-DAY FALLBACK · Oct 21] چقدر یک خبرنگار باید نامحبوب باشه که بعد از رفتنش این همه آدم خوشحال باشند",
+   "likes": 3508,
+   "reposts": 56,
+   "replies": 23,
+   "quotes": 8,
+   "media": false,
+   "why_hit_text": "Persian-language rhetorical question about an unpopular journalist; likes-to-views is high. 7-day fallback hit (Oct 21), not inside the 48h window.",
+   "video_tip": "Short text-only works for this account in Persian; for English, pair a one-line sarcasm with a screenshot of the public reaction.",
+   "original_en": "How unpopular must a journalist be for this many people to be happy after he leaves?",
+   "window": "7-day fallback (older than 48h)",
+   "top10_rank": 6,
+   "self_quote": false,
+   "draft_en": "How unpopular does a journalist have to be for this many people to be glad when he leaves?",
+   "draft_keywords": []
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 85422,
+   "views_label": "85.4K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114363390869320079",
+   "id": "2114363390869320079",
+   "posted_at": "2026-10-25T14:28:10.000Z",
+   "hook": "Well. There are two options:\n  \n1. Take off the hijab.\n\n2. Move to one of the 50 Muslim countries and find a job there. t.co/pcxrJ2qA3g",
+   "likes": 14646,
+   "reposts": 2362,
+   "replies": 225,
+   "quotes": 36,
+   "media": true,
+   "why_hit_text": "Hijab-related confrontation line with a quoted clip; high likes-to-views (14.6K likes on 85K views).",
+   "video_tip": "Off-niche as written. No draft: telling women to take off hijab or leave is not a position to amplify. Iran angle if wanted: women's right to choose, tied to Woman Life Freedom.",
+   "original_en": "Well. There are two options:\n  \n1. Take off the hijab.\n\n2. Move to one of the 50 Muslim countries and find a job there. https://t.co/pcxrJ2qA3g",
+   "window": "last 48h",
+   "top10_rank": 7,
+   "self_quote": false,
+   "draft_withheld": "Off-niche as written. No draft: telling women to take off hijab or leave is not a position to amplify. Iran angle if wanted: women's right to choose, tied to Woman Life Freedom."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 82851,
+   "views_label": "82.9K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114522546372579694",
+   "id": "2114522546372579694",
+   "posted_at": "2026-10-26T01:00:35.000Z",
+   "hook": "Can anyone come up with a PLAUSIBLE explanation of how it was possible for Lula to win in Brazil? I’m absolutely shocked.",
+   "likes": 2552,
+   "reposts": 181,
+   "replies": 479,
+   "quotes": 9,
+   "media": false,
+   "why_hit_text": "Election-doubt question after a Brazil result; reply-bait (479 replies).",
+   "video_tip": "Off-niche. No draft: insinuates election fraud without evidence.",
+   "original_en": "Can anyone come up with a PLAUSIBLE explanation of how it was possible for Lula to win in Brazil? I’m absolutely shocked.",
+   "window": "last 48h",
+   "top10_rank": 8,
+   "self_quote": false,
+   "draft_withheld": "Off-niche. No draft: insinuates election fraud without evidence."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 82548,
+   "views_label": "82.5K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114243866018644053",
+   "id": "2114243866018644053",
+   "posted_at": "2026-10-25T06:33:13.000Z",
+   "hook": "One of the most disgusting things I’ve ever heard.\n\nHis son raped a 13-year-old girl in Rotherham, England.\n\nHe says there’s nothing wrong with it. And that it was not rape because \"she wasn't a virgin or new to sex.”\n\nEvil culture and society. t.co/WdyMF24AIl",
+   "likes": 11676,
+   "reposts": 5037,
+   "replies": 488,
+   "quotes": 247,
+   "media": true,
+   "why_hit_text": "Outrage story with a clip about a child-abuse case; moral shock.",
+   "video_tip": "Off-niche. No draft: broad 'evil culture' framing about a community.",
+   "original_en": "One of the most disgusting things I’ve ever heard.\n\nHis son raped a 13-year-old girl in Rotherham, England.\n\nHe says there’s nothing wrong with it. And that it was not rape because \"she wasn't a virgin or new to sex.”\n\nEvil culture and society. https://t.co/WdyMF24AIl",
+   "window": "last 48h",
+   "top10_rank": 9,
+   "self_quote": false,
+   "draft_withheld": "Off-niche. No draft: broad 'evil culture' framing about a community."
+  },
+  {
+   "name": "Dr. Maalouf",
+   "handle": "@realMaalouf",
+   "views": 65711,
+   "views_label": "65.7K",
+   "highlight": false,
+   "url": "https://x.com/realMaalouf/status/2114109562399666367",
+   "id": "2114109562399666367",
+   "posted_at": "2026-10-24T21:39:32.000Z",
+   "hook": "The main leaders of the riots in France, Italy, and now Spain are all Palestinian activists. Let that sink in.\n\nThese ‘protests’ are being planned in direct coordination with Gazan terrorists.\n\nThanks to the Palestinian genocide scam and the billions they have received, they are now able to fund the destruction of Europe.",
+   "likes": 10282,
+   "reposts": 3289,
+   "replies": 114,
+   "quotes": 54,
+   "media": false,
+   "why_hit_text": "Conspiracy-style claim about European riots; heavy bookmarking/sharing.",
+   "video_tip": "Off-niche. No draft: unverified claims and sweeping blame.",
+   "original_en": "The main leaders of the riots in France, Italy, and now Spain are all Palestinian activists. Let that sink in.\n\nThese ‘protests’ are being planned in direct coordination with Gazan terrorists.\n\nThanks to the Palestinian genocide scam and the billions they have received, they are now able to fund the destruction of Europe.",
+   "window": "last 48h",
+   "top10_rank": 10,
+   "self_quote": false,
+   "draft_withheld": "Off-niche. No draft: unverified claims and sweeping blame."
+  },
+  {
+   "name": "فلات ایران",
+   "handle": "@IranianPlateau",
+   "views": 62053,
+   "views_label": "62.1K",
+   "highlight": false,
+   "url": "https://x.com/IranianPlateau/status/2114226035466354996",
+   "id": "2114226035466354996",
+   "posted_at": "2026-10-25T05:22:21.000Z",
+   "hook": "واکنش اسماعیل شکری، پدر جاویدنام سپهر شکری، به اظهارات آزاده آل‌ایوب، معروف به «خاله نرگس»، درباره معترضان ۱۸ دی‌ماه: t.co/IMlV2CyyYx",
+   "likes": 6162,
+   "reposts": 508,
+   "replies": 74,
+   "quotes": 8,
+   "media": true,
+   "why_hit_text": "Video reaction of a bereaved father (Persian) to a public figure's comments on the 18 Dey protesters; emotional + video + the account's 196K audience.",
+   "video_tip": "Add English subtitles to the clip and open with the father's most powerful sentence in the first 3 seconds. Keep the context line short and respectful.",
+   "original_en": "Reaction of Esmail Shokri, father of the fallen Sepehr Shokri, to statements by Azadeh Al-Ayoub, known as 'Khaleh Narges', about the protesters of 18 Dey:",
+   "window": "last 48h",
+   "top10_rank": null,
+   "self_quote": false,
+   "draft_en": "The father of the fallen protester Sepehr Shokri has responded to remarks by Azadeh Al-Ayoub, known as 'Khaleh Narges', about the people who protested on 18 Dey. Watch his answer.",
+   "draft_keywords": []
+  },
+  {
+   "name": "فلات ایران",
+   "handle": "@IranianPlateau",
+   "views": 53991,
+   "views_label": "54.0K",
+   "highlight": false,
+   "url": "https://x.com/IranianPlateau/status/2114396673900507138",
+   "id": "2114396673900507138",
+   "posted_at": "2026-10-25T16:40:25.000Z",
+   "hook": "زباله‌های بی‌مقدار t.co/oXMllmjq4a",
+   "likes": 6641,
+   "reposts": 328,
+   "replies": 77,
+   "quotes": 16,
+   "media": true,
+   "why_hit_text": "Two-word Persian caption on a media post; the video does the work and the caption is a verdict.",
+   "video_tip": "Pair a single image or 10s clip with a 2-3 word verdict caption. Check the media before reusing: the text carries no context.",
+   "original_en": "زباله‌های بی‌مقدار https://t.co/oXMllmjq4a",
+   "window": "last 48h",
+   "top10_rank": null,
+   "self_quote": false,
+   "draft_withheld": "No draft: media-only post without enough context to rewrite."
+  }
+ ],
+ "virals": [
+  {
+   "name": "Reza Pahlavi Communications",
+   "handle": "@PahlaviComms",
+   "followers": 168992,
+   "views": 8032,
+   "views_label": "8.0K",
+   "likes": 1042,
+   "reposts": 358,
+   "url": "https://x.com/PahlaviComms/status/2114737489478906122",
+   "posted_at": "2026-10-26T15:14:42.000Z",
+   "hook": "Saeed Shakiba, a voice actor and comedy influencer, used his platform to stand with the Iranian people. He honored the fallen heroes of the Jan 8-9 massacres, and declared that he couldn't chase personal success while ignoring his nation's pain. / After his viral impression of Ali https://t.co/KpezNWibPB",
+   "media": true
+  },
+  {
+   "name": "Elham👑",
+   "handle": "@EllaDghn",
+   "followers": 3528,
+   "views": 6213,
+   "views_label": "6.2K",
+   "likes": 246,
+   "reposts": 129,
+   "url": "https://x.com/EllaDghn/status/2114110175183286580",
+   "posted_at": "2026-10-24T21:41:58.000Z",
+   "hook": "🇦🇺 Australia has already taken a stand against the Islamic Republic. Now it is time for the next diplomatic step. / We call on the Australian government to end the Islamic Republic’s diplomatic representation in Canberra and initiate a lawful transfer of Iran’s diplomatic https://t.co/opYh6Du61M https://t.co/WSKKwfoKtb",
+   "media": true
+  },
+  {
+   "name": "DutchIrani",
+   "handle": "@DutchIrani",
+   "followers": 12187,
+   "views": 6096,
+   "views_label": "6.1K",
+   "likes": 171,
+   "reposts": 64,
+   "url": "https://x.com/DutchIrani/status/2114427545374380280",
+   "posted_at": "2026-10-25T18:43:05.000Z",
+   "hook": "Allow me to introduce you to the original Epstein doctrine: / @mb_ghalibaf, speaker of the parliament of the Islamic Republic occupying Iran and former IRGC commander, calls America the “Epstein class.” His wife was 14 when they married. / Ruhollah Khomeini’s own book, Tahrir https://t.co/SXeoFGnlkR",
+   "media": true
+  },
+  {
+   "name": "Dear PenFriend™ 🇮🇷",
+   "handle": "@DearPenFriend",
+   "followers": 1282,
+   "views": 5766,
+   "views_label": "5.8K",
+   "likes": 758,
+   "reposts": 160,
+   "url": "https://x.com/DearPenFriend/status/2114429397474345042",
+   "posted_at": "2026-10-25T18:50:27.000Z",
+   "hook": "¡Viva libre Venezuela! @MariaCorinaYA Iranians stand with you. Welcome Home!  / I am counting down the days to witness Crown Prince Reza Pahlavi’s safe and secure return to Iran as well.  Javid Shah. Long Live Iran. @PahlaviReza https://t.co/BbT71ziftU",
+   "media": false
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 4789,
+   "views_label": "4.8K",
+   "likes": 82,
+   "reposts": 12,
+   "url": "https://x.com/siaxares/status/2114031975589650808",
+   "posted_at": "2026-10-24T16:31:14.000Z",
+   "hook": "Islamic Republic's president Pezeshkian calls the Americans “cowards” in one breath and begs for the deal in the next.  / On state TV he blamed United States for the collapse of the interim deal: “We were having negotiations, the cowards (Americans) messed everything up. I still https://t.co/yydnnRiVxq",
+   "media": true
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 4377,
+   "views_label": "4.4K",
+   "likes": 75,
+   "reposts": 16,
+   "url": "https://x.com/siaxares/status/2114340566796222826",
+   "posted_at": "2026-10-25T12:57:28.000Z",
+   "hook": "Trump says he has to “stop” killing Iranian leaders so he knows who to negotiate with.  / Trump has named the regime’s real problem. No one in Tehran can speak for Iran. Pezeshkian begs for a deal, Tasnim denies it, Ghalibaf threatens, and Mojtaba Khamenei hasn’t been seen in https://t.co/HXEzV0YvaR",
+   "media": true
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 2911,
+   "views_label": "2.9K",
+   "likes": 95,
+   "reposts": 23,
+   "url": "https://x.com/siaxares/status/2114437029274804626",
+   "posted_at": "2026-10-25T19:20:46.000Z",
+   "hook": "🔴The Islamic Republic threatened Germany for jailing its would-be assassins after they attempted to kill Jews in Germany. / On Sunday, Fars news (which is close to the IRGC) reported that Tehran warned Berlin: if Germany “openly enters” a military conflict with Iran, “all bases https://t.co/QU3W4cKsse",
+   "media": true
+  },
+  {
+   "name": "Catherine Perez-Shakdam",
+   "handle": "@ShakdamC",
+   "followers": 18939,
+   "views": 1839,
+   "views_label": "1.8K",
+   "likes": 193,
+   "reposts": 56,
+   "url": "https://x.com/ShakdamC/status/2114678417152934328",
+   "posted_at": "2026-10-26T11:19:58.000Z",
+   "hook": "🇮🇷❤️ Happy Birthday, Your Majesty, Mohammad Reza Shah Pahlavi. / Today, I remember you with affection, respect and a profound sense of longing for the Iran that once dared to dream of greatness. / A country proud of its ancient civilisation, its extraordinary people and its place https://t.co/OcQE0kAik8",
+   "media": true
+  },
+  {
+   "name": "Mas Mas🇮🇷",
+   "handle": "@MasMas2171",
+   "followers": 9504,
+   "views": 1794,
+   "views_label": "1.8K",
+   "likes": 285,
+   "reposts": 112,
+   "url": "https://x.com/MasMas2171/status/2114215644749296048",
+   "posted_at": "2026-10-25T04:41:04.000Z",
+   "hook": "From inside Iran’s prisons, cities, towns, and the diaspora, we speak with one clear message to the world: 𝗪𝗲 𝘀𝘁𝗮𝗻𝗱 𝘄𝗶𝘁𝗵 𝗣𝗿𝗶𝗻𝗰𝗲 𝗥𝗲𝘇𝗮 𝗣𝗮𝗵𝗹𝗮𝘃𝗶. 𝗪𝗲 𝗿𝗲𝗷𝗲𝗰𝘁 𝘁𝗵𝗲 𝗜𝘀𝗹𝗮𝗺𝗶𝗰 𝗥𝗲𝗽𝘂𝗯𝗹𝗶𝗰 𝗮𝗻𝗱 𝗱𝗲𝗺𝗮𝗻𝗱 𝗶𝘁𝘀 𝗲𝗻𝗱. For nearly five https://t.co/fxTZuBToCN https://t.co/EMVQl9NX3T",
+   "media": true
+  },
+  {
+   "name": "BenSabti",
+   "handle": "@BeniSabti",
+   "followers": 33481,
+   "views": 1755,
+   "views_label": "1.8K",
+   "likes": 68,
+   "reposts": 9,
+   "url": "https://x.com/BeniSabti/status/2114235649184223365",
+   "posted_at": "2026-10-25T06:00:34.000Z",
+   "hook": "Iran regime senior figure threatens Israel by destruction. Maybe he wants to be in the next list of eliminations and join other IRGC Generals and Khamenei in heaven! https://t.co/WEJg9EBPkZ",
+   "media": true
+  },
+  {
+   "name": "Dr. Joseph Ford Cotto",
+   "handle": "@JosephFordCotto",
+   "followers": 126351,
+   "views": 1296,
+   "views_label": "1.3K",
+   "likes": 20,
+   "reposts": 6,
+   "url": "https://x.com/JosephFordCotto/status/2114446905774395429",
+   "posted_at": "2026-10-25T20:00:01.000Z",
+   "hook": "Crown Prince Reza Pahlavi is the leader Iran needs. / The Islamists--and the degenerate leftists who want to wreck Western civilization--hate that. / You agree?",
+   "media": false
+  },
+  {
+   "name": "Zara Zhar",
+   "handle": "@Boudicca61AD",
+   "followers": 8503,
+   "views": 853,
+   "views_label": "853",
+   "likes": 52,
+   "reposts": 13,
+   "url": "https://x.com/Boudicca61AD/status/2114451582767018190",
+   "posted_at": "2026-10-25T20:18:36.000Z",
+   "hook": "Iranian Revolution, Tehran, 15 February 1979. / A young supporter of Ayatollah Ruhollah Khomeini stands outside the revolutionary leader’s headquarters, holding a rifle crowned with a red carnation. / Captured just four days after the triumph of Iran’s 1979 Islamic Revolution, the https://t.co/8E9IPCsxrD",
+   "media": true
+  },
+  {
+   "name": "reza🇮🇷",
+   "handle": "@sarbaz_Shahiran",
+   "followers": 2965,
+   "views": 812,
+   "views_label": "812",
+   "likes": 51,
+   "reposts": 18,
+   "url": "https://x.com/sarbaz_Shahiran/status/2114294373773099379",
+   "posted_at": "2026-10-25T09:53:55.000Z",
+   "hook": "For 47years,Iranians have fought to take their country back from the Islamic Republic. / On January 8–9,they answered Crown Prince Reza Pahlavi’s call and took to the streets. / The message was clear:the Iranian people want Crown Prince Reza Pahlavi to lead the path to a free Iran. https://t.co/Uc3fm1pVom https://t.co/2DEXNF8pJr",
+   "media": true
+  },
+  {
+   "name": "King of Kings",
+   "handle": "@iranazad1110",
+   "followers": 1398,
+   "views": 784,
+   "views_label": "784",
+   "likes": 50,
+   "reposts": 24,
+   "url": "https://x.com/iranazad1110/status/2114089311817629811",
+   "posted_at": "2026-10-24T20:19:04.000Z",
+   "hook": "Silence and diplomacy have failed for 47 years. Now is the time for decisive action. Arm the people of Iran. Recognize only Crown Prince Reza Pahlavi. Finish this once and for all. / Javid Shah 👑🇮🇷 #KingRezaPahlaviForIran https://t.co/y4SzsRnPUH https://t.co/NTKgOVJSZ6",
+   "media": true
+  },
+  {
+   "name": "James",
+   "handle": "@James81540275",
+   "followers": 3009,
+   "views": 688,
+   "views_label": "688",
+   "likes": 88,
+   "reposts": 47,
+   "url": "https://x.com/James81540275/status/2114024115866878210",
+   "posted_at": "2026-10-24T16:00:00.000Z",
+   "hook": "People from inside Iran clearly thank @FNFreiheit  They are clearly saying @PahlaviReza is the only choice for freedom of Iran.  / One nation, one voice, one choice ! He is the only person people have been chanting his name. Crown Prince Reza Pahlavi!  / Long live Iran  Long live https://t.co/HXlTYXgofO",
+   "media": false
+  },
+  {
+   "name": "Vicky👑",
+   "handle": "@Victory26Au",
+   "followers": 1667,
+   "views": 676,
+   "views_label": "676",
+   "likes": 51,
+   "reposts": 27,
+   "url": "https://x.com/Victory26Au/status/2114237516643733972",
+   "posted_at": "2026-10-25T06:07:59.000Z",
+   "hook": "From behind the walls of repression, the people of Iran have spoken: Crown Prince Reza Pahlavi is our voice.  / When the silenced cannot speak, the one who carries their demand for freedom becomes the voice of a nation. / FRANKFURT | NOVEMBER 7, 2026 / Be the voice of Iran. For a https://t.co/frHVk5BRe6 https://t.co/5dj9XKK7h5",
+   "media": true
+  },
+  {
+   "name": "مک کوئین",
+   "handle": "@Steveimcqueen3",
+   "followers": 8484,
+   "views": 614,
+   "views_label": "614",
+   "likes": 63,
+   "reposts": 32,
+   "url": "https://x.com/Steveimcqueen3/status/2114631813779935474",
+   "posted_at": "2026-10-26T08:14:47.000Z",
+   "hook": "Mr. President @JMilei , Mr. Secretary of State @pabloquirno  @Cancilleria_Ar , / We, the Iranian people held hostage by the terrorist regime of the Islamic Republic of Iran, demand that the ambassadors of this regime be expelled and that its embassies be handed over to the only https://t.co/SOJRJsKYIU",
+   "media": false
+  },
+  {
+   "name": "Nick Simon",
+   "handle": "@NickSimonTV",
+   "followers": 7618,
+   "views": 559,
+   "views_label": "559",
+   "likes": 12,
+   "reposts": 6,
+   "url": "https://x.com/NickSimonTV/status/2114493360740405543",
+   "posted_at": "2026-10-25T23:04:37.000Z",
+   "hook": "the IRANIAN PEOPLE are NOT the vile Terrorists that are the ISLAMIC REPUBLIC OF IRAN. / Most Iranians ARE NOT MUSLIM. / They just want their FREEDOM. / Only Crown Prince Reza Pahlavi @PahlaviReza can bring Freedom to the Iranian people. @POTUS @FLOTUS @netanyahu @SecRubio @JDVance https://t.co/WS1F7QY0sw",
+   "media": false
+  },
+  {
+   "name": "Shahed 🇵🇸",
+   "handle": "@shahed_belbeisi",
+   "followers": 3637,
+   "views": 553,
+   "views_label": "553",
+   "likes": 32,
+   "reposts": 11,
+   "url": "https://x.com/shahed_belbeisi/status/2114434865256919531",
+   "posted_at": "2026-10-25T19:12:10.000Z",
+   "hook": "The most moral army in the world, harassing a woman in hijab in a narrow alley.  Where is Woman, Life, Freedom now https://t.co/UwLmClD7mD",
+   "media": false
+  },
+  {
+   "name": "Hengaw Organization for Human Rights",
+   "handle": "@Hengaw_English",
+   "followers": 18949,
+   "views": 496,
+   "views_label": "496",
+   "likes": 17,
+   "reposts": 13,
+   "url": "https://x.com/Hengaw_English/status/2114077407762170313",
+   "posted_at": "2026-10-24T19:31:46.000Z",
+   "hook": "Saeid Ijadi sentenced to 21 years in prison over Woman, Life, Freedom movement / https://t.co/Zv2fAu0adI",
+   "media": false
+  },
+  {
+   "name": "Nakisa Serafinceanu 🇮🇷 🇷🇴🇺🇦 👑",
+   "handle": "@NSn43386568",
+   "followers": 1906,
+   "views": 280,
+   "views_label": "280",
+   "likes": 26,
+   "reposts": 2,
+   "url": "https://x.com/NSn43386568/status/2114256615356387738",
+   "posted_at": "2026-10-25T07:23:52.000Z",
+   "hook": "Why do we cry Javid Shah?  / The slogan Javid Shah is NOT a call for absolute monarchy. Iran's future will be decided democratically through a #Free_National_Referendum. For those misled by leftist narratives, here is the true meaning behind this cry for freedom: 1. An https://t.co/edBy3FKUAW",
+   "media": true
+  }
+ ],
+ "outsiders": [
+  {
+   "name": "Reza Pahlavi Communications",
+   "handle": "@PahlaviComms",
+   "followers": 168992,
+   "views": 8032,
+   "views_label": "8.0K",
+   "likes": 1042,
+   "reposts": 358,
+   "url": "https://x.com/PahlaviComms/status/2114737489478906122",
+   "posted_at": "2026-10-26T15:14:42.000Z",
+   "hook": "Saeed Shakiba, a voice actor and comedy influencer, used his platform to stand with the Iranian people. He honored the fallen heroes of the Jan 8-9 massacres, and declared that he couldn't chase personal success while ignoring his nation's pain. / After his viral impression of Ali https://t.co/KpezNWibPB",
+   "media": true
+  },
+  {
+   "name": "Elham👑",
+   "handle": "@EllaDghn",
+   "followers": 3528,
+   "views": 6213,
+   "views_label": "6.2K",
+   "likes": 246,
+   "reposts": 129,
+   "url": "https://x.com/EllaDghn/status/2114110175183286580",
+   "posted_at": "2026-10-24T21:41:58.000Z",
+   "hook": "🇦🇺 Australia has already taken a stand against the Islamic Republic. Now it is time for the next diplomatic step. / We call on the Australian government to end the Islamic Republic’s diplomatic representation in Canberra and initiate a lawful transfer of Iran’s diplomatic https://t.co/opYh6Du61M https://t.co/WSKKwfoKtb",
+   "media": true
+  },
+  {
+   "name": "DutchIrani",
+   "handle": "@DutchIrani",
+   "followers": 12187,
+   "views": 6096,
+   "views_label": "6.1K",
+   "likes": 171,
+   "reposts": 64,
+   "url": "https://x.com/DutchIrani/status/2114427545374380280",
+   "posted_at": "2026-10-25T18:43:05.000Z",
+   "hook": "Allow me to introduce you to the original Epstein doctrine: / @mb_ghalibaf, speaker of the parliament of the Islamic Republic occupying Iran and former IRGC commander, calls America the “Epstein class.” His wife was 14 when they married. / Ruhollah Khomeini’s own book, Tahrir https://t.co/SXeoFGnlkR",
+   "media": true
+  },
+  {
+   "name": "Dear PenFriend™ 🇮🇷",
+   "handle": "@DearPenFriend",
+   "followers": 1282,
+   "views": 5766,
+   "views_label": "5.8K",
+   "likes": 758,
+   "reposts": 160,
+   "url": "https://x.com/DearPenFriend/status/2114429397474345042",
+   "posted_at": "2026-10-25T18:50:27.000Z",
+   "hook": "¡Viva libre Venezuela! @MariaCorinaYA Iranians stand with you. Welcome Home!  / I am counting down the days to witness Crown Prince Reza Pahlavi’s safe and secure return to Iran as well.  Javid Shah. Long Live Iran. @PahlaviReza https://t.co/BbT71ziftU",
+   "media": false
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 4789,
+   "views_label": "4.8K",
+   "likes": 82,
+   "reposts": 12,
+   "url": "https://x.com/siaxares/status/2114031975589650808",
+   "posted_at": "2026-10-24T16:31:14.000Z",
+   "hook": "Islamic Republic's president Pezeshkian calls the Americans “cowards” in one breath and begs for the deal in the next.  / On state TV he blamed United States for the collapse of the interim deal: “We were having negotiations, the cowards (Americans) messed everything up. I still https://t.co/yydnnRiVxq",
+   "media": true
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 4377,
+   "views_label": "4.4K",
+   "likes": 75,
+   "reposts": 16,
+   "url": "https://x.com/siaxares/status/2114340566796222826",
+   "posted_at": "2026-10-25T12:57:28.000Z",
+   "hook": "Trump says he has to “stop” killing Iranian leaders so he knows who to negotiate with.  / Trump has named the regime’s real problem. No one in Tehran can speak for Iran. Pezeshkian begs for a deal, Tasnim denies it, Ghalibaf threatens, and Mojtaba Khamenei hasn’t been seen in https://t.co/HXEzV0YvaR",
+   "media": true
+  },
+  {
+   "name": "Siaxares 🇮🇷 🇺🇸",
+   "handle": "@siaxares",
+   "followers": 45899,
+   "views": 2911,
+   "views_label": "2.9K",
+   "likes": 95,
+   "reposts": 23,
+   "url": "https://x.com/siaxares/status/2114437029274804626",
+   "posted_at": "2026-10-25T19:20:46.000Z",
+   "hook": "🔴The Islamic Republic threatened Germany for jailing its would-be assassins after they attempted to kill Jews in Germany. / On Sunday, Fars news (which is close to the IRGC) reported that Tehran warned Berlin: if Germany “openly enters” a military conflict with Iran, “all bases https://t.co/QU3W4cKsse",
+   "media": true
+  },
+  {
+   "name": "Catherine Perez-Shakdam",
+   "handle": "@ShakdamC",
+   "followers": 18939,
+   "views": 1839,
+   "views_label": "1.8K",
+   "likes": 193,
+   "reposts": 56,
+   "url": "https://x.com/ShakdamC/status/2114678417152934328",
+   "posted_at": "2026-10-26T11:19:58.000Z",
+   "hook": "🇮🇷❤️ Happy Birthday, Your Majesty, Mohammad Reza Shah Pahlavi. / Today, I remember you with affection, respect and a profound sense of longing for the Iran that once dared to dream of greatness. / A country proud of its ancient civilisation, its extraordinary people and its place https://t.co/OcQE0kAik8",
+   "media": true
+  },
+  {
+   "name": "Mas Mas🇮🇷",
+   "handle": "@MasMas2171",
+   "followers": 9504,
+   "views": 1794,
+   "views_label": "1.8K",
+   "likes": 285,
+   "reposts": 112,
+   "url": "https://x.com/MasMas2171/status/2114215644749296048",
+   "posted_at": "2026-10-25T04:41:04.000Z",
+   "hook": "From inside Iran’s prisons, cities, towns, and the diaspora, we speak with one clear message to the world: 𝗪𝗲 𝘀𝘁𝗮𝗻𝗱 𝘄𝗶𝘁𝗵 𝗣𝗿𝗶𝗻𝗰𝗲 𝗥𝗲𝘇𝗮 𝗣𝗮𝗵𝗹𝗮𝘃𝗶. 𝗪𝗲 𝗿𝗲𝗷𝗲𝗰𝘁 𝘁𝗵𝗲 𝗜𝘀𝗹𝗮𝗺𝗶𝗰 𝗥𝗲𝗽𝘂𝗯𝗹𝗶𝗰 𝗮𝗻𝗱 𝗱𝗲𝗺𝗮𝗻𝗱 𝗶𝘁𝘀 𝗲𝗻𝗱. For nearly five https://t.co/fxTZuBToCN https://t.co/EMVQl9NX3T",
+   "media": true
+  },
+  {
+   "name": "BenSabti",
+   "handle": "@BeniSabti",
+   "followers": 33481,
+   "views": 1755,
+   "views_label": "1.8K",
+   "likes": 68,
+   "reposts": 9,
+   "url": "https://x.com/BeniSabti/status/2114235649184223365",
+   "posted_at": "2026-10-25T06:00:34.000Z",
+   "hook": "Iran regime senior figure threatens Israel by destruction. Maybe he wants to be in the next list of eliminations and join other IRGC Generals and Khamenei in heaven! https://t.co/WEJg9EBPkZ",
+   "media": true
+  },
+  {
+   "name": "Dr. Joseph Ford Cotto",
+   "handle": "@JosephFordCotto",
+   "followers": 126351,
+   "views": 1296,
+   "views_label": "1.3K",
+   "likes": 20,
+   "reposts": 6,
+   "url": "https://x.com/JosephFordCotto/status/2114446905774395429",
+   "posted_at": "2026-10-25T20:00:01.000Z",
+   "hook": "Crown Prince Reza Pahlavi is the leader Iran needs. / The Islamists--and the degenerate leftists who want to wreck Western civilization--hate that. / You agree?",
+   "media": false
+  },
+  {
+   "name": "Zara Zhar",
+   "handle": "@Boudicca61AD",
+   "followers": 8503,
+   "views": 853,
+   "views_label": "853",
+   "likes": 52,
+   "reposts": 13,
+   "url": "https://x.com/Boudicca61AD/status/2114451582767018190",
+   "posted_at": "2026-10-25T20:18:36.000Z",
+   "hook": "Iranian Revolution, Tehran, 15 February 1979. / A young supporter of Ayatollah Ruhollah Khomeini stands outside the revolutionary leader’s headquarters, holding a rifle crowned with a red carnation. / Captured just four days after the triumph of Iran’s 1979 Islamic Revolution, the https://t.co/8E9IPCsxrD",
+   "media": true
+  },
+  {
+   "name": "reza🇮🇷",
+   "handle": "@sarbaz_Shahiran",
+   "followers": 2965,
+   "views": 812,
+   "views_label": "812",
+   "likes": 51,
+   "reposts": 18,
+   "url": "https://x.com/sarbaz_Shahiran/status/2114294373773099379",
+   "posted_at": "2026-10-25T09:53:55.000Z",
+   "hook": "For 47years,Iranians have fought to take their country back from the Islamic Republic. / On January 8–9,they answered Crown Prince Reza Pahlavi’s call and took to the streets. / The message was clear:the Iranian people want Crown Prince Reza Pahlavi to lead the path to a free Iran. https://t.co/Uc3fm1pVom https://t.co/2DEXNF8pJr",
+   "media": true
+  },
+  {
+   "name": "King of Kings",
+   "handle": "@iranazad1110",
+   "followers": 1398,
+   "views": 784,
+   "views_label": "784",
+   "likes": 50,
+   "reposts": 24,
+   "url": "https://x.com/iranazad1110/status/2114089311817629811",
+   "posted_at": "2026-10-24T20:19:04.000Z",
+   "hook": "Silence and diplomacy have failed for 47 years. Now is the time for decisive action. Arm the people of Iran. Recognize only Crown Prince Reza Pahlavi. Finish this once and for all. / Javid Shah 👑🇮🇷 #KingRezaPahlaviForIran https://t.co/y4SzsRnPUH https://t.co/NTKgOVJSZ6",
+   "media": true
+  },
+  {
+   "name": "James",
+   "handle": "@James81540275",
+   "followers": 3009,
+   "views": 688,
+   "views_label": "688",
+   "likes": 88,
+   "reposts": 47,
+   "url": "https://x.com/James81540275/status/2114024115866878210",
+   "posted_at": "2026-10-24T16:00:00.000Z",
+   "hook": "People from inside Iran clearly thank @FNFreiheit  They are clearly saying @PahlaviReza is the only choice for freedom of Iran.  / One nation, one voice, one choice ! He is the only person people have been chanting his name. Crown Prince Reza Pahlavi!  / Long live Iran  Long live https://t.co/HXlTYXgofO",
+   "media": false
+  },
+  {
+   "name": "Vicky👑",
+   "handle": "@Victory26Au",
+   "followers": 1667,
+   "views": 676,
+   "views_label": "676",
+   "likes": 51,
+   "reposts": 27,
+   "url": "https://x.com/Victory26Au/status/2114237516643733972",
+   "posted_at": "2026-10-25T06:07:59.000Z",
+   "hook": "From behind the walls of repression, the people of Iran have spoken: Crown Prince Reza Pahlavi is our voice.  / When the silenced cannot speak, the one who carries their demand for freedom becomes the voice of a nation. / FRANKFURT | NOVEMBER 7, 2026 / Be the voice of Iran. For a https://t.co/frHVk5BRe6 https://t.co/5dj9XKK7h5",
+   "media": true
+  },
+  {
+   "name": "مک کوئین",
+   "handle": "@Steveimcqueen3",
+   "followers": 8484,
+   "views": 614,
+   "views_label": "614",
+   "likes": 63,
+   "reposts": 32,
+   "url": "https://x.com/Steveimcqueen3/status/2114631813779935474",
+   "posted_at": "2026-10-26T08:14:47.000Z",
+   "hook": "Mr. President @JMilei , Mr. Secretary of State @pabloquirno  @Cancilleria_Ar , / We, the Iranian people held hostage by the terrorist regime of the Islamic Republic of Iran, demand that the ambassadors of this regime be expelled and that its embassies be handed over to the only https://t.co/SOJRJsKYIU",
+   "media": false
+  },
+  {
+   "name": "Nick Simon",
+   "handle": "@NickSimonTV",
+   "followers": 7618,
+   "views": 559,
+   "views_label": "559",
+   "likes": 12,
+   "reposts": 6,
+   "url": "https://x.com/NickSimonTV/status/2114493360740405543",
+   "posted_at": "2026-10-25T23:04:37.000Z",
+   "hook": "the IRANIAN PEOPLE are NOT the vile Terrorists that are the ISLAMIC REPUBLIC OF IRAN. / Most Iranians ARE NOT MUSLIM. / They just want their FREEDOM. / Only Crown Prince Reza Pahlavi @PahlaviReza can bring Freedom to the Iranian people. @POTUS @FLOTUS @netanyahu @SecRubio @JDVance https://t.co/WS1F7QY0sw",
+   "media": false
+  },
+  {
+   "name": "Shahed 🇵🇸",
+   "handle": "@shahed_belbeisi",
+   "followers": 3637,
+   "views": 553,
+   "views_label": "553",
+   "likes": 32,
+   "reposts": 11,
+   "url": "https://x.com/shahed_belbeisi/status/2114434865256919531",
+   "posted_at": "2026-10-25T19:12:10.000Z",
+   "hook": "The most moral army in the world, harassing a woman in hijab in a narrow alley.  Where is Woman, Life, Freedom now https://t.co/UwLmClD7mD",
+   "media": false
+  },
+  {
+   "name": "Hengaw Organization for Human Rights",
+   "handle": "@Hengaw_English",
+   "followers": 18949,
+   "views": 496,
+   "views_label": "496",
+   "likes": 17,
+   "reposts": 13,
+   "url": "https://x.com/Hengaw_English/status/2114077407762170313",
+   "posted_at": "2026-10-24T19:31:46.000Z",
+   "hook": "Saeid Ijadi sentenced to 21 years in prison over Woman, Life, Freedom movement / https://t.co/Zv2fAu0adI",
+   "media": false
+  },
+  {
+   "name": "Nakisa Serafinceanu 🇮🇷 🇷🇴🇺🇦 👑",
+   "handle": "@NSn43386568",
+   "followers": 1906,
+   "views": 280,
+   "views_label": "280",
+   "likes": 26,
+   "reposts": 2,
+   "url": "https://x.com/NSn43386568/status/2114256615356387738",
+   "posted_at": "2026-10-25T07:23:52.000Z",
+   "hook": "Why do we cry Javid Shah?  / The slogan Javid Shah is NOT a call for absolute monarchy. Iran's future will be decided democratically through a #Free_National_Referendum. For those misled by leftist narratives, here is the true meaning behind this cry for freedom: 1. An https://t.co/edBy3FKUAW",
+   "media": true
+  }
+ ],
+ "patterns": [
+  "Reza Pahlavi",
+  "Crown Prince",
+  "Javid Shah",
+  "Islamic Republic",
+  "Woman Life Freedom",
+  "regime",
+  "IRGC",
+  "Iran revolution",
+  "monarchy",
+  "Frankfurt Nov 7 rally",
+  "embassy hand-over campaign",
+  "then vs now footage",
+  "one-line verdict + clip"
+ ],
+ "no_hits": [
+  {
+   "handle": "@atheistcyrus",
+   "reason": "No original in the last 48h reached 50K views; highest observed 2351 across 6 originals. Best of 7 days in sample: 8625.",
+   "max_views": 2351
+  },
+  {
+   "handle": "@khoshnevisnaser",
+   "reason": "No original in the last 48h reached 50K views; highest observed 1940 across 1 originals. Best of 7 days in sample: 1940.",
+   "max_views": 1940
+  },
+  {
+   "handle": "@M0rtezaaaa",
+   "reason": "No original in the last 48h reached 50K views; highest observed 6100 across 9 originals. Best of 7 days in sample: 6100.",
+   "max_views": 6100
+  },
+  {
+   "handle": "@RosebudDonKhoan",
+   "reason": "No original in the last 48h reached 50K views; highest observed 19661 across 19 originals. Best of 7 days in sample: 19661.",
+   "max_views": 19661
+  },
+  {
+   "handle": "@STILL_LOUIE",
+   "reason": "No original in the last 48h reached 50K views; highest observed 13340 across 3 originals. Best of 7 days in sample: 13340.",
+   "max_views": 13340
+  },
+  {
+   "handle": "@hediekimiaee",
+   "reason": "No 48h original reached 50K (best in 48h: 15070). Best of last 7 days: 103157 (Oct 21, shown above as 7-day fallback).",
+   "max_views": 15070
+  }
+ ],
+ "virals_narrative": "Outsider sample (92 unique English posts from 3 searches, last 48h). Pahlavi-supportive posts cluster in two types: (1) coordinated appeals that tag governments to expel Islamic Republic diplomats and hand embassies to Crown Prince Reza Pahlavi (Australia, Argentina, Belgium, New Zealand variants), and a Frankfurt rally call for November 7; (2) news-commentary threads on Pezeshkian/Trump negotiations from siaxares and DutchIrani. Highest-reach niche post in the sample: @PahlaviComms (8K views, 1,042 likes) about influencer Saeed Shakiba. The biggest English views overall in the sample (UnToldTruthOnX 218K, TruthTrumpPost 60K, Sprinter_Press 29K) are off-niche or aggregator accounts and were excluded from the outsider lane. View counts of small accounts can be low relative to likes; numbers are as returned by the X API at fetch time.",
+ "narrative_synthesis": "Outsider sample (92 unique English posts from 3 searches, last 48h). Pahlavi-supportive posts cluster in two types: (1) coordinated appeals that tag governments to expel Islamic Republic diplomats and hand embassies to Crown Prince Reza Pahlavi (Australia, Argentina, Belgium, New Zealand variants), and a Frankfurt rally call for November 7; (2) news-commentary threads on Pezeshkian/Trump negotiations from siaxares and DutchIrani. Highest-reach niche post in the sample: @PahlaviComms (8K views, 1,042 likes) about influencer Saeed Shakiba. The biggest English views overall in the sample (UnToldTruthOnX 218K, TruthTrumpPost 60K, Sprinter_Press 29K) are off-niche or aggregator accounts and were excluded from the outsider lane. View counts of small accounts can be low relative to likes; numbers are as returned by the X API at fetch time.",
+ "virals_window": "last ~48h",
+ "virals_target": 20,
+ "hits_count": 12,
+ "outsiders_count": 21,
+ "previous_day": {
+  "date": "2026-10-25",
   "hits_count": 0,
-  "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-10-25",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
-  "leaderboards": {
-    "as_of": "2026-10-26",
-    "tracking_start": "2026-10-26",
-    "days_included": [
-      "2026-10-26"
-    ],
-    "month_days_included": [
-      "2026-10-26"
-    ],
-    "week": {
-      "label": "Rolling week · Oct 20–Oct 26",
-      "range": [
-        "2026-10-20",
-        "2026-10-26"
-      ],
-      "entries": []
+  "total_views": 0,
+  "x_score": 0,
+  "note": "first run, no earlier digest"
+ },
+ "leaderboards": {
+  "as_of": "2026-10-26",
+  "tracking_start": "2026-10-26",
+  "days_included": [
+   "2026-10-26"
+  ],
+  "month_days_included": [
+   "2026-10-26"
+  ],
+  "week": {
+   "label": "Last ~7 days sample · Oct 19-Oct 26 (API returns max 25 posts per account, so busy accounts cover fewer days)",
+   "range": [
+    "2026-10-20",
+    "2026-10-26"
+   ],
+   "entries": [
+    {
+     "handle": "@realMaalouf",
+     "name": "Dr. Maalouf",
+     "best": 475762,
+     "views": 2005281,
+     "hits": 9,
+     "days": 1
     },
-    "month": {
-      "label": "October 2026 · from Oct 26",
-      "range": [
-        "2026-10-26",
-        "2026-10-26"
-      ],
-      "entries": []
+    {
+     "handle": "@hediekimiaee",
+     "name": "Hediyeh Kimiaee",
+     "best": 103157,
+     "views": 152468,
+     "hits": 1,
+     "days": 1
+    },
+    {
+     "handle": "@IranianPlateau",
+     "name": "فلات ایران",
+     "best": 62053,
+     "views": 466279,
+     "hits": 2,
+     "days": 1
+    },
+    {
+     "handle": "@RosebudDonKhoan",
+     "name": "Rosebud",
+     "best": 19661,
+     "views": 30307,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@STILL_LOUIE",
+     "name": "LouieStill",
+     "best": 13340,
+     "views": 15545,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@atheistcyrus",
+     "name": "سیروس پارسا",
+     "best": 8625,
+     "views": 38116,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@M0rtezaaaa",
+     "name": "مرتضی",
+     "best": 6100,
+     "views": 31117,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@khoshnevisnaser",
+     "name": "Naser Khoshnevis",
+     "best": 1940,
+     "views": 1940,
+     "hits": 0,
+     "days": 1
     }
+   ]
   },
-  "board_features": {
-    "count_up": true,
-    "live_pulse": true,
-    "theme_toggle": true,
-    "themes": [
-      "night",
-      "day"
+  "month": {
+   "label": "First digest · last 48h only",
+   "range": [
+    "2026-10-26",
+    "2026-10-26"
+   ],
+   "entries": [
+    {
+     "handle": "@realMaalouf",
+     "name": "Dr. Maalouf",
+     "best": 475762,
+     "views": 2005281,
+     "hits": 9,
+     "days": 1
+    },
+    {
+     "handle": "@IranianPlateau",
+     "name": "فلات ایران",
+     "best": 62053,
+     "views": 345471,
+     "hits": 2,
+     "days": 1
+    },
+    {
+     "handle": "@RosebudDonKhoan",
+     "name": "Rosebud",
+     "best": 19661,
+     "views": 29497,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@hediekimiaee",
+     "name": "Hediyeh Kimiaee",
+     "best": 15070,
+     "views": 22909,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@STILL_LOUIE",
+     "name": "LouieStill",
+     "best": 13340,
+     "views": 15545,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@M0rtezaaaa",
+     "name": "مرتضی",
+     "best": 6100,
+     "views": 24815,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@atheistcyrus",
+     "name": "سیروس پارسا",
+     "best": 2351,
+     "views": 6843,
+     "hits": 0,
+     "days": 1
+    },
+    {
+     "handle": "@khoshnevisnaser",
+     "name": "Naser Khoshnevis",
+     "best": 1940,
+     "views": 1940,
+     "hits": 0,
+     "days": 1
+    }
+   ]
+  }
+ },
+ "board_features": {
+  "count_up": true,
+  "live_pulse": true,
+  "theme_toggle": true,
+  "themes": [
+   "night",
+   "day"
+  ],
+  "grok_ambient": true,
+  "week_month_boards": true,
+  "day_roster_best_total": true,
+  "day_compare_chart": true,
+  "week_strip": true,
+  "no_hits_reasons": true,
+  "marker_class": "xvs-dash-2026",
+  "top10_drafts_v4": true,
+  "trend_keywords": true,
+  "trend_radar": true,
+  "x_keyword_table": true,
+  "experiment": true,
+  "self_quote_badge": true
+ },
+ "operator": {
+  "handle": "@MattiIceland",
+  "name": "Matthías Khatibi",
+  "profile_url": "https://x.com/MattiIceland"
+ },
+ "ui": {
+  "default_theme": "night"
+ },
+ "day_roster": [
+  {
+   "handle": "@realMaalouf",
+   "name": "Dr. Maalouf",
+   "views": 475762,
+   "total_views": 2005281,
+   "hit": true
+  },
+  {
+   "handle": "@IranianPlateau",
+   "name": "فلات ایران",
+   "views": 62053,
+   "total_views": 345471,
+   "hit": true
+  },
+  {
+   "handle": "@RosebudDonKhoan",
+   "name": "Rosebud",
+   "views": 19661,
+   "total_views": 29497,
+   "hit": false
+  },
+  {
+   "handle": "@hediekimiaee",
+   "name": "Hediyeh Kimiaee",
+   "views": 15070,
+   "total_views": 22909,
+   "hit": false
+  },
+  {
+   "handle": "@STILL_LOUIE",
+   "name": "LouieStill",
+   "views": 13340,
+   "total_views": 15545,
+   "hit": false
+  },
+  {
+   "handle": "@M0rtezaaaa",
+   "name": "مرتضی",
+   "views": 6100,
+   "total_views": 24815,
+   "hit": false
+  },
+  {
+   "handle": "@atheistcyrus",
+   "name": "سیروس پارسا",
+   "views": 2351,
+   "total_views": 6843,
+   "hit": false
+  },
+  {
+   "handle": "@khoshnevisnaser",
+   "name": "Naser Khoshnevis",
+   "views": 1940,
+   "total_views": 1940,
+   "hit": false
+  }
+ ],
+ "you_rank": null,
+ "trend_input_only_posts": [],
+ "trend_keywords": {
+  "window": "last 48h outsider sample (92 posts)",
+  "keywords": [
+   {
+    "rank": 1,
+    "keyword": "Reza Pahlavi"
+   },
+   {
+    "rank": 2,
+    "keyword": "Crown Prince"
+   },
+   {
+    "rank": 3,
+    "keyword": "Islamic Republic"
+   },
+   {
+    "rank": 4,
+    "keyword": "regime"
+   },
+   {
+    "rank": 5,
+    "keyword": "Shah"
+   },
+   {
+    "rank": 6,
+    "keyword": "Woman Life Freedom"
+   },
+   {
+    "rank": 7,
+    "keyword": "IRGC"
+   },
+   {
+    "rank": 8,
+    "keyword": "Javid Shah"
+   },
+   {
+    "rank": 9,
+    "keyword": "January 8-9"
+   },
+   {
+    "rank": 10,
+    "keyword": "Khamenei"
+   },
+   {
+    "rank": 11,
+    "keyword": "Pezeshkian"
+   },
+   {
+    "rank": 12,
+    "keyword": "embassy"
+   },
+   {
+    "rank": 13,
+    "keyword": "Australia"
+   },
+   {
+    "rank": 14,
+    "keyword": "Venezuela / Machado"
+   }
+  ]
+ },
+ "trend_radar": {
+  "summary": {
+   "top10_line": "TOP-10: 3/10 drafted; 7/10 draft withheld (off-niche, sweeping claims about a religious group, or unverified; hand-built, not pipeline-scored). 1 extra draft on the #11 @IranianPlateau post",
+   "headline": "11 originals cleared 50K in the last 48h (9 from @realMaalouf, 2 from @IranianPlateau), plus 1 seven-day fallback (@hediekimiaee, Oct 21). Total views of these 12: 1,806,188.",
+   "takeaway": "Only @IranianPlateau is squarely on-niche for Pahlavi/Iran. For your niche, copy the formats (then-vs-now clip, one-line verdict, video reaction) and the outsider angles (embassy campaign, Venezuela parallel, Javid Shah explainer).",
+   "stats": {
+    "all": {
+     "verdicts": {
+      "author-audience": 12
+     }
+    }
+   }
+  },
+  "corpus": {
+   "posts": 176,
+   "min_views": 0
+  },
+  "window": {
+   "label48": "Oct 24 16:00 - Oct 26 16:30 (UTC)"
+  },
+  "topics": [
+   {
+    "name": "Crown Prince Reza Pahlavi as leader",
+    "heat": 100,
+    "momentum": "22 of 43 posts in last 24h",
+    "posts_24h": 22,
+    "posts_48h": 43,
+    "views_24h": 16239,
+    "views_48h": 24217,
+    "keywords": [
+     "Reza Pahlavi",
+     "Crown Prince",
+     "Javid Shah"
     ],
-    "grok_ambient": true,
-    "week_month_boards": true,
-    "day_roster_best_total": true,
-    "day_compare_chart": true,
-    "week_strip": true,
-    "no_hits_reasons": true,
-    "marker_class": "xvs-dash-2026",
-    "top10_drafts_v4": true,
-    "trend_keywords": true,
-    "trend_radar": true,
-    "x_keyword_table": true,
-    "experiment": true,
-    "self_quote_badge": true
-  },
-  "operator": {
-    "handle": "@MattiIceland",
-    "name": "Matthías Khatibi",
-    "profile_url": "https://x.com/MattiIceland"
-  },
-  "ui": {
-    "default_theme": "night"
-  },
-  "day_roster": [],
-  "you_rank": null,
-  "trend_input_only_posts": []
+    "evidence": [
+     {
+      "handle": "@DearPenFriend",
+      "views": 5766,
+      "url": "https://x.com/DearPenFriend/status/2114429397474345042",
+      "hook": "¡Viva libre Venezuela! @MariaCorinaYA Iranians stand with you. Welcome Home!   I am counti"
+     },
+     {
+      "handle": "@ShakdamC",
+      "views": 1839,
+      "url": "https://x.com/ShakdamC/status/2114678417152934328",
+      "hook": "🇮🇷❤️ Happy Birthday, Your Majesty, Mohammad Reza Shah Pahlavi.  Today, I remember you with"
+     },
+     {
+      "handle": "@JosephFordCotto",
+      "views": 1340,
+      "url": "https://x.com/JosephFordCotto/status/2114227957493313657",
+      "hook": "🔴🚨 Crown Prince Reza Pahlavi is the leader Iran needs.  🚨🇺🇸Right now.🏛️"
+     }
+    ]
+   },
+   {
+    "name": "Islamic Republic regime / IRGC",
+    "heat": 100,
+    "momentum": "16 of 42 posts in last 24h",
+    "posts_24h": 16,
+    "posts_48h": 42,
+    "views_24h": 11401,
+    "views_48h": 34010,
+    "keywords": [
+     "Islamic Republic",
+     "regime",
+     "IRGC"
+    ],
+    "evidence": [
+     {
+      "handle": "@EllaDghn",
+      "views": 6213,
+      "url": "https://x.com/EllaDghn/status/2114110175183286580",
+      "hook": "🇦🇺 Australia has already taken a stand against the Islamic Republic. Now it is time for th"
+     },
+     {
+      "handle": "@DutchIrani",
+      "views": 6096,
+      "url": "https://x.com/DutchIrani/status/2114427545374380280",
+      "hook": "Allow me to introduce you to the original Epstein doctrine:  @mb_ghalibaf, speaker of the "
+     },
+     {
+      "handle": "@siaxares",
+      "views": 4789,
+      "url": "https://x.com/siaxares/status/2114031975589650808",
+      "hook": "Islamic Republic's president Pezeshkian calls the Americans “cowards” in one breath and be"
+     }
+    ]
+   },
+   {
+    "name": "Woman, Life, Freedom",
+    "heat": 36,
+    "momentum": "4 of 12 posts in last 24h",
+    "posts_24h": 4,
+    "posts_48h": 12,
+    "views_24h": 789,
+    "views_48h": 30539,
+    "keywords": [
+     "Woman Life Freedom"
+    ],
+    "evidence": [
+     {
+      "handle": "@Sprinter_Press",
+      "views": 28876,
+      "url": "https://x.com/Sprinter_Press/status/2114251205656363425",
+      "hook": "Israel International: The Moral army of Israel and its attitude towards women, in contrast"
+     },
+     {
+      "handle": "@shahed_belbeisi",
+      "views": 553,
+      "url": "https://x.com/shahed_belbeisi/status/2114434865256919531",
+      "hook": "The most moral army in the world, harassing a woman in hijab in a narrow alley.  Where is "
+     },
+     {
+      "handle": "@Hengaw_English",
+      "views": 496,
+      "url": "https://x.com/Hengaw_English/status/2114077407762170313",
+      "hook": "Saeid Ijadi sentenced to 21 years in prison over Woman, Life, Freedom movement  https://t."
+     }
+    ]
+   },
+   {
+    "name": "Embassy / diplomatic pressure campaign",
+    "heat": 27,
+    "momentum": "2 of 9 posts in last 24h",
+    "posts_24h": 2,
+    "posts_48h": 9,
+    "views_24h": 634,
+    "views_48h": 9013,
+    "keywords": [
+     "embassy",
+     "Islamic Republic"
+    ],
+    "evidence": [
+     {
+      "handle": "@EllaDghn",
+      "views": 6213,
+      "url": "https://x.com/EllaDghn/status/2114110175183286580",
+      "hook": "🇦🇺 Australia has already taken a stand against the Islamic Republic. Now it is time for th"
+     },
+     {
+      "handle": "@Mary_Persis2",
+      "views": 625,
+      "url": "https://x.com/Mary_Persis2/status/2114201664043594026",
+      "hook": "FORMAL APPEAL TO THE GOVERNMENT OF NEW ZEALAND 🇳🇿  @chrisluxonmp @NewZealandMFA @winstonpe"
+     },
+     {
+      "handle": "@JahangiriAzar",
+      "views": 623,
+      "url": "https://x.com/JahangiriAzar/status/2114129336911696085",
+      "hook": "Australia has taken a stand against the Islamic Republic. Now, it’s time for the next dipl"
+     }
+    ]
+   },
+   {
+    "name": "Trump and Iran negotiations",
+    "heat": 30,
+    "momentum": "1 of 10 posts in last 24h",
+    "posts_24h": 1,
+    "posts_48h": 10,
+    "views_24h": 235,
+    "views_48h": 70871,
+    "keywords": [
+     "Trump",
+     "regime"
+    ],
+    "evidence": [
+     {
+      "handle": "@TruthTrumpPost",
+      "views": 59849,
+      "url": "https://x.com/TruthTrumpPost/status/2114285245591703886",
+      "hook": "JUST NOW: President Trump called Barack Obama  “a grossly incompetent President” who “paid"
+     },
+     {
+      "handle": "@siaxares",
+      "views": 4789,
+      "url": "https://x.com/siaxares/status/2114031975589650808",
+      "hook": "Islamic Republic's president Pezeshkian calls the Americans “cowards” in one breath and be"
+     },
+     {
+      "handle": "@siaxares",
+      "views": 4377,
+      "url": "https://x.com/siaxares/status/2114340566796222826",
+      "hook": "Trump says he has to “stop” killing Iranian leaders so he knows who to negotiate with.   T"
+     }
+    ]
+   },
+   {
+    "name": "Jan 8-9 uprising",
+    "heat": 15,
+    "momentum": "2 of 5 posts in last 24h",
+    "posts_24h": 2,
+    "posts_48h": 5,
+    "views_24h": 8051,
+    "views_48h": 9087,
+    "keywords": [
+     "Reza Pahlavi",
+     "Islamic Republic"
+    ],
+    "evidence": [
+     {
+      "handle": "@PahlaviComms",
+      "views": 8032,
+      "url": "https://x.com/PahlaviComms/status/2114737489478906122",
+      "hook": "Saeed Shakiba, a voice actor and comedy influencer, used his platform to stand with the Ir"
+     },
+     {
+      "handle": "@sarbaz_Shahiran",
+      "views": 812,
+      "url": "https://x.com/sarbaz_Shahiran/status/2114294373773099379",
+      "hook": "For 47years,Iranians have fought to take their country back from the Islamic Republic.  On"
+     },
+     {
+      "handle": "@VforIran3",
+      "views": 183,
+      "url": "https://x.com/VforIran3/status/2114317288136724736",
+      "hook": "For 47years,Iranians have fought to take their country back from the Islamic Republic.  On"
+     }
+    ]
+   }
+  ],
+  "ideas": [
+   {
+    "title": "Venezuela homecoming, Iran next",
+    "format": "image",
+    "source": "outsiders",
+    "topic": "Javid Shah / Pahlavi return",
+    "hook_en": "Venezuela just watched its opposition leader come home. Iranians are counting down to the day Crown Prince Reza Pahlavi can return to Iran too. Javid Shah.",
+    "visual": "Side-by-side image: the Machado return photo (credit source) next to a Reza Pahlavi portrait, caption 'Next: Iran'.",
+    "visual_type": "image",
+    "angle": "Ride the Venezuela news cycle that Iranian accounts are already quote-posting.",
+    "why": "Seen in outsider posts from @DearPenFriend (758 likes) and @Mehrdad_rst in the last 48h.",
+    "keywords": [
+     "Reza Pahlavi",
+     "Crown Prince",
+     "Javid Shah"
+    ]
+   },
+   {
+    "title": "What 'Javid Shah' actually means",
+    "format": "carousel",
+    "source": "outsiders",
+    "topic": "monarchy explainer",
+    "hook_en": "Why do Iranians chant Javid Shah? It is a cry for freedom and a national referendum, not a call for absolute rule. Here are the points people keep misunderstanding.",
+    "visual": "5-slide carousel, one point per slide, Persian + English text, Lion and Sun flag on the last slide.",
+    "visual_type": "carousel",
+    "angle": "Counter the 'monarchy = absolutism' narrative with the referendum point already circulating.",
+    "why": "A similar explainer thread by @NSn43386568 is active in the last 48h; a clean carousel version is easier to share.",
+    "keywords": [
+     "Javid Shah",
+     "monarchy",
+     "Crown Prince"
+    ]
+   },
+   {
+    "title": "Pezeshkian: 'cowards' and begging",
+    "format": "video",
+    "source": "outsiders",
+    "topic": "Islamic Republic hypocrisy",
+    "hook_en": "In one breath the Islamic Republic's president calls Americans cowards. In the next he begs for a deal. This regime has no one who can speak for Iran - Iranians already chose their voice.",
+    "visual": "30s screen-recorded video of the state TV clip with English captions and a closing card 'Iranians choose Crown Prince Reza Pahlavi'.",
+    "visual_type": "video",
+    "angle": "Use the regime's own words to show its contradictions, then pivot to the alternative.",
+    "why": "The @siaxares posts on Pezeshkian and Trump drew 4.8K and 4.4K views, the best English regime-news posts of the sample.",
+    "keywords": [
+     "Islamic Republic",
+     "regime",
+     "Crown Prince"
+    ]
+   },
+   {
+    "title": "Hand the embassies to the people",
+    "format": "image",
+    "source": "outsiders",
+    "topic": "diplomatic campaign",
+    "hook_en": "Governments keep talking to the Islamic Republic's diplomats. Iranians are asking them to expel the regime's envoys and recognize Crown Prince Reza Pahlavi as the voice of the people.",
+    "visual": "Map graphic of countries already tagged in campaigns (Australia, Argentina, New Zealand, Belgium) with a flag pin each.",
+    "visual_type": "image",
+    "angle": "Turn scattered appeal posts into one shareable campaign visual.",
+    "why": "At least 4 country variants of this appeal are circulating in the sample.",
+    "keywords": [
+     "Islamic Republic",
+     "embassy",
+     "Reza Pahlavi"
+    ]
+   },
+   {
+    "title": "Then vs now: Tehran before and after 1979",
+    "format": "video",
+    "source": "watchlist",
+    "topic": "Iran revolution then/now",
+    "hook_en": "Before 1979 and after. Watch what the Islamic Republic did to Iran, and what a free Iran can look like again.",
+    "visual": "20-30s split-screen archive clips, 3 caption beats, credits in the last frame.",
+    "visual_type": "video",
+    "angle": "Copy the then-vs-now format of the 263K-view Yemen post, applied to Iran.",
+    "why": "@realMaalouf's then/now Yemen clip hit 263.6K views; format transfers to the Iran/Pahlavi niche.",
+    "keywords": [
+     "Iran revolution",
+     "Islamic Republic",
+     "Shah"
+    ]
+   },
+   {
+    "title": "Frankfurt, November 7",
+    "format": "image",
+    "source": "outsiders",
+    "topic": "diaspora rally",
+    "hook_en": "Frankfurt, November 7: Iranians in Europe are calling for people to turn out. Be the voice of those who cannot speak.",
+    "visual": "Poster-style image with date, city, Lion and Sun, and a QR link to the official event page (verify the source before posting).",
+    "visual_type": "image",
+    "angle": "Event-promo posts are circulating; verify the organizer before amplifying.",
+    "why": "Two Frankfurt Nov 7 posts appear in the 48h sample.",
+    "keywords": [
+     "Reza Pahlavi",
+     "Islamic Republic",
+     "Woman Life Freedom"
+    ]
+   }
+  ],
+  "articles": [
+   {
+    "title": "Why Iranians say Javid Shah: referendum, not absolutism",
+    "thesis": "The slogan is a demand for freedom and a free national referendum on the future system.",
+    "outline": [
+     "What the slogan means to people inside Iran",
+     "The referendum point and where it comes from",
+     "The regime's counter-narrative",
+     "What diaspora events show"
+    ],
+    "visual": "Explainer infographic with timeline",
+    "why": "Direct niche pillar for a monarchist operator.",
+    "keywords": [
+     "Javid Shah",
+     "monarchy",
+     "Crown Prince"
+    ]
+   },
+   {
+    "title": "The Islamic Republic's mixed messages on talks",
+    "thesis": "Pezeshkian, Tasnim and Ghalibaf send different signals, which shows nobody speaks for the regime.",
+    "outline": [
+     "Pezeshkian: 'cowards' vs the deal request",
+     "Trump's remark about who to negotiate with",
+     "Why a credible Iranian alternative matters"
+    ],
+    "visual": "Screenshot montage of the three statements with dates",
+    "why": "Siaxares posts on this topic performed best among English regime-news posts.",
+    "keywords": [
+     "Islamic Republic",
+     "regime"
+    ]
+   }
+  ],
+  "why_hit": [
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 475762,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Broad Muslims-vs-non-Muslims claim; huge reach comes from outrage and quote-fights, not Iran niche."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 280002,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Short street-interview clip with a punchline; sarcasm on the last line drives replies."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 263600,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Then-vs-now footage plus a collapse thesis: simple contrast format that travels fast."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 140201,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Clip of a woman speaking plus an ethnic-slavery claim; heavy quote/outrage engagement."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 110890,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "no",
+    "matched_keywords": [],
+    "note": "Two-word hook on breaking news; curiosity gap, no content in the text."
+   },
+   {
+    "handle": "@hediekimiaee",
+    "lane": "watchlist",
+    "views": 103157,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "no",
+    "matched_keywords": [],
+    "note": "Persian-language rhetorical question about an unpopular journalist; likes-to-views is high. 7-day fallback hit (Oct 21), not inside the 48h window."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 85422,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Hijab-related confrontation line with a quoted clip; high likes-to-views (14.6K likes on 85K views)."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 82851,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "no",
+    "matched_keywords": [],
+    "note": "Election-doubt question after a Brazil result; reply-bait (479 replies)."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 82548,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Outrage story with a clip about a child-abuse case; moral shock."
+   },
+   {
+    "handle": "@realMaalouf",
+    "lane": "watchlist",
+    "views": 65711,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "no",
+    "matched_keywords": [],
+    "note": "Conspiracy-style claim about European riots; heavy bookmarking/sharing."
+   },
+   {
+    "handle": "@IranianPlateau",
+    "lane": "watchlist",
+    "views": 62053,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Video reaction of a bereaved father (Persian) to a public figure's comments on the 18 Dey protesters; emotional + video + the account's 196K audience."
+   },
+   {
+    "handle": "@IranianPlateau",
+    "lane": "watchlist",
+    "views": 53991,
+    "trend_match": 0,
+    "verdict": "author-audience",
+    "media": "yes",
+    "matched_keywords": [],
+    "note": "Two-word Persian caption on a media post; the video does the work and the caption is a verdict."
+   }
+  ],
+  "legend": "Hand-built first run from X API public reads. Views = impression_count returned by the X API. Window: last 48h unless labeled. API returned max 25 posts per account call, so busy accounts (@realMaalouf, @RosebudDonKhoan, @IranianPlateau) cover fewer than 7 days. Trend match scoring and the X keyword table were not computed in this first run. Topic counts come from a 92-post outsider sample, not the full platform."
+ }
 }
