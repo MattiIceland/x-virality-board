@@ -1,8 +1,8 @@
 {
   "title": "Daily X narrative digest - 2026-11-05 (Iran / Pahlavi niche)",
-  "date": "2026-11-04",
+  "date": "2026-11-05",
   "timezone": "Atlantic/Reykjavik",
-  "updated": "2026-11-05T10:59:30+00:00",
+  "updated": "2026-11-05T10:59:52+00:00",
   "brand_title": "MattiIceland X Virality Score",
   "brand_handle": "@MattiIceland",
   "operator": {
@@ -1904,45 +1904,46 @@
     "total_views": 4031175
   },
   "leaderboards": {
-    "as_of": "2026-11-04",
+    "as_of": "2026-11-05",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-10-29",
       "2026-10-30",
       "2026-10-31",
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "month_days_included": [
       "2026-11-01",
       "2026-11-02",
       "2026-11-03",
-      "2026-11-04"
+      "2026-11-04",
+      "2026-11-05"
     ],
     "week": {
-      "label": "Rolling week · Oct 29–Nov 4",
+      "label": "Rolling week · Oct 30–Nov 5",
       "range": [
-        "2026-10-29",
-        "2026-11-04"
+        "2026-10-30",
+        "2026-11-05"
       ],
       "entries": [
         {
           "handle": "@realMaalouf",
           "name": "Dr. Maalouf",
-          "hits": 69,
+          "hits": 79,
           "days": 7,
-          "views": 15824803,
-          "best": 2487560,
-          "best_url": "https://x.com/realMaalouf/status/2116032205898010932"
+          "views": 23509393,
+          "best": 2961609,
+          "best_url": "https://x.com/realMaalouf/status/2117785136691560926"
         },
         {
           "handle": "@IranianPlateau",
           "name": "فلات ایران",
-          "hits": 6,
-          "days": 6,
-          "views": 369142,
+          "hits": 5,
+          "days": 5,
+          "views": 302313,
           "best": 78718,
           "best_url": "https://x.com/IranianPlateau/status/2116860788413714772"
         }
@@ -1952,16 +1953,16 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-04"
+        "2026-11-05"
       ],
       "entries": [
         {
           "handle": "@realMaalouf",
           "name": "Dr. Maalouf",
-          "hits": 37,
-          "days": 4,
-          "views": 7773029,
-          "best": 1000054,
+          "hits": 56,
+          "days": 5,
+          "views": 16754709,
+          "best": 2961609,
           "best_url": "https://x.com/realMaalouf/status/2117785136691560926"
         },
         {
