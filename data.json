@@ -2,7 +2,7 @@
   "title": "Daily X narrative digest - 2026-11-06 (Iran / Pahlavi niche)",
   "date": "2026-11-06",
   "timezone": "Atlantic/Reykjavik",
-  "updated": "2026-11-06T11:35:00+00:00",
+  "updated": "2026-11-06T14:39:04+00:00",
   "brand_title": "MattiIceland X Virality Score",
   "brand_handle": "@MattiIceland",
   "operator": {
@@ -61,7 +61,27 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 1,
+      "draft_en": "Ilhan Omar held her seat. On the same night, nine more Somali winners took State Senate and State House races in Minnesota, Ohio, and Oregon.\n\nThat is ten seats flipping into one community's hands in three States. Speechless is putting it mildly.",
+      "draft_keywords": [
+        "States"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.077,
+        "word_overlap": 0.346,
+        "max_copied_run": 5
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -88,7 +108,27 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 2,
+      "draft_en": "Look at Abdul El-Sayed next to his wife. He gets jeans and a fitted shirt. She gets covered head to toe in a 7th-century Bedouin look.\n\nThat gap is not a couple's style choice. It is women's oppression, live in the West.",
+      "draft_keywords": [
+        "West"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -115,7 +155,34 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 4,
+      "draft_en": "Hamas and Muslim Brotherhood voices, caught on tape, frame October 7 as the spark for Islamic rule spreading through the West.\n\nThey counted on Israel hitting back hard, on mass death, on a fake genocide story that would flip Western voters and open doors for Muslim politicians. A death cult needs bodies and rubble. Gaza's ruin was the point, not a side effect.\n\nWithout that attack, names like Abdul El-Sayed and Zohran Mamdani never clear the ballot the same way. The Brotherhood is celebrating that trade in real time.",
+      "draft_keywords": [
+        "Muslim Brotherhood",
+        "Islamic",
+        "West",
+        "Israel"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.035,
+        "word_overlap": 0.4,
+        "max_copied_run": 5
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 63,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Islamic",
+          "Israel",
+          "October 7"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -142,7 +209,27 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 7,
+      "draft_en": "Fifty-one Muslim candidates ran for Congress, state legislatures, and local seats. At least 36 won overnight.\n\nKeep that pace and a decade from now the West is looking at hundreds. If that does not scare you, read it again.",
+      "draft_keywords": [
+        "West"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.111,
+        "word_overlap": 0.5,
+        "max_copied_run": 6
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -169,7 +256,27 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 9,
+      "draft_en": "Ballots have consequences. Michigan is sliding toward one giant Dearborn.\n\nSkip Abdul and I feel for you. Back him and enjoy the Sharia that comes with that West-facing win.",
+      "draft_keywords": [
+        "West"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.467,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -196,7 +303,34 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": false,
-      "new_since_last_digest": true
+      "new_since_last_digest": true,
+      "board_rank": 10,
+      "draft_en": "A Muslim Brotherhood leader praises Muslims in America and Europe for winning political jihad.\n\nHe calls lasting peace with Allah's enemies forbidden, and says jihad runs until Judgment Day. Then he thanks Palestinian activists for opening the door so Muslims can enter Western governments and win office.\n\nThat is the quiet thesis of the Palestinian cause as a lever for Islamic takeover of the West - now said out loud. Once you hear it, Abdul's win stops looking like a fluke.",
+      "draft_keywords": [
+        "Muslim Brotherhood",
+        "Europe",
+        "West",
+        "Islamic"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.078,
+        "word_overlap": 0.488,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 55,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Islamic",
+          "Europe",
+          "America"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -223,7 +357,19 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": true,
-      "new_since_last_digest": false
+      "new_since_last_digest": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 31,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Europe",
+          "America"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
     },
     {
       "name": "Dr. Maalouf",
@@ -250,7 +396,16 @@
       "window": "last 48h",
       "self_quote": false,
       "carried_over": false,
-      "new_since_last_digest": true
+      "new_since_last_digest": true,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
     }
   ],
   "virals": [
@@ -271,7 +426,33 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Documentary teaser (DUDE 44); reconstructs a claimed F-15E shootdown/rescue - verify before reuse as fact."
+      "note": "Documentary teaser (DUDE 44); reconstructs a claimed F-15E shootdown/rescue - verify before reuse as fact.",
+      "board_rank": 3,
+      "draft_en": "Tonight's cut: an American F-15E goes down over Iran. One airman makes it out. The other chute fails. Broken back. Mountains. Iranian units closing the net.\n\nWashington threw 176 planes into the air, plus special forces and CIA teams, to pull him out. The Osint channel is rebuilding DUDE 44 in 3D (not AI) as one of the wildest U.S. rescues on record. Full version drops on their YouTube tonight.",
+      "draft_keywords": [
+        "American",
+        "Iran",
+        "Iranian",
+        "U.S"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.015,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -290,7 +471,35 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "List of MOU terms is the author's summary; verify against the reported document before reuse."
+      "note": "List of MOU terms is the author's summary; verify against the reported document before reuse.",
+      "board_rank": 5,
+      "draft_en": "That Vance MOU with Tehran keeps recirculating. The bullet list people cite:\n\n- $300 billion reconstruction for Iran\n- enrichment stays, no shutdown demanded\n- talks to lift ALL U.S. sanctions\n- frozen Iranian money unlocked\n- American forces leave Iran's neighborhood within 30 days of a final deal\n- fighting paused on every front, Lebanon included\n- oil-export waivers while talks run\n\nTreat every line as a claim until you verify the signed text.",
+      "draft_keywords": [
+        "Vance",
+        "Tehran",
+        "Iran",
+        "U.S",
+        "American",
+        "Iran's"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.077,
+        "word_overlap": 0.391,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Visegrád 24",
@@ -308,7 +517,41 @@
       "original_en": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing former allies of hypocrisy, discrimination and selectively defending human rights.\n\nKavyani said she had experienced more homophobia, racism and sexism from left-wing activists over the past nine months than ever before.\n\nKavyani, who grew up under Iran's Islamic Republic before moving to Canada at 14, criticized pro-Palestine activists for advocating women's rights while remaining silent about Iranian women fighting against compulsory hijab laws and other restrictions imposed by Tehran.\n\nShe also accused some activists of defending the Iranian regime and sharing material supportive of the Islamic Revolutionary Guard Corps (IRGC).\n\nKavyani said Hamas's October 7, 2023, attack on Israel was a turning point, explaining that she could not support the killing, rape, torture or hostage-taking of civilians simply because they were Israeli.\n\nShe argued that human rights should apply equally to everyone, regardless of nationality or political beliefs, and accused parts of the movement of prioritizing ideology over protecting innocent people.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 6,
+      "draft_en": "Parishad Kavyani left Iran's Islamic Republic at 14 for Canada, then spent over two years in Palestine marches. She has walked away.\n\nOver the last nine months, she says, left-wing circles hit her with more bigotry - anti-gay, racial, sexist - than anything earlier. Allies preach women's rights, then go quiet on Iranian women fighting compulsory hijab. Some defend the regime and push IRGC-friendly posts.\n\nOctober 7 ended the excuse. She will not cover for killing, rape, torture, or hostage-taking of Israeli civilians. Rights are for everyone, or they are a costume.",
+      "draft_keywords": [
+        "Iran's",
+        "Islamic Republic",
+        "Iranian",
+        "regime",
+        "IRGC",
+        "Israeli"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.034,
+        "word_overlap": 0.56,
+        "max_copied_run": 6
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 94,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Islamic",
+          "Iran's",
+          "Israel",
+          "IRGC",
+          "Israeli",
+          "October 7"
+        ],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -327,7 +570,32 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Same DUDE 44 documentary teaser as the sister post; not a breaking news claim."
+      "note": "Same DUDE 44 documentary teaser as the sister post; not a breaking news claim.",
+      "board_rank": 8,
+      "draft_en": "Teaser set for April 2, 2026, south of Isfahan: an American F-15E Strike Eagle runs toward Iranian missile and drone sites. On the ground, a $100,000 shoulder-fired round tracks a $30 million jet.\n\nWhat followed became DUDE 44 - Osint613's 3D rebuild (not AI) of a U.S. rescue that ranks with the rarest in recent memory. Full documentary hits their YouTube tonight.",
+      "draft_keywords": [
+        "American",
+        "Iranian",
+        "U.S"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.068,
+        "word_overlap": 0.615,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -345,7 +613,19 @@
       "original_en": "Iranian media has released footage of IRGC Ground Forces commander Mohammad Karami visiting islands in the Strait of Hormuz. https://t.co/mfwnRuoIVu",
       "media": "video",
       "media_type": "video",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Iranian",
+          "IRGC"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -363,7 +643,21 @@
       "original_en": "Iranian military analyst Mohammad Taheri:\n\n\"Iran's missiles can already reach most of Eastern Europe. Extending their range to 4,000 km would put most of Europe and North Africa within their reach. Iran may target European military bases if war breaks out.\"",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Iran's",
+          "Europe"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -382,7 +676,21 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "Regime adviser quote relayed by an aggregator; tone is propaganda."
+      "note": "Regime adviser quote relayed by an aggregator; tone is propaganda.",
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 76,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Iran's",
+          "America"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Open Source Intel",
@@ -401,7 +709,20 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Parsi's \"plausibility\" remark is speculative; he also rejects it as casus belli."
+      "note": "Parsi's \"plausibility\" remark is speculative; he also rejects it as casus belli.",
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Israeli"
+        ],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Anton Gerashchenko",
@@ -419,7 +740,16 @@
       "original_en": "The Republicans’ electoral defeat weakens Trump at home but leaves him considerable freedom of action in foreign policy. Towards the end of their second terms, American presidents have often focused on international affairs to demonstrate their ability to deliver results: Bill Clinton sought an Israeli–Palestinian peace agreement, Barack Obama concluded the nuclear deal with Iran and restored relations with Cuba, and George W. Bush increased the US military presence in Iraq after the Republicans’ defeat in the 2006 elections. Trump, too, may step up his foreign policy initiatives in pursuit of quick wins.\n\nTrump has already created a degree of turbulence in US foreign policy. Let us hope it does not turn into a nosedive. His scope for quick diplomatic successes is limited: previous negotiations with Putin and Xi Jinping have produced no significant results, while new agreements would require time and mutual concessions. Decisions on limited military operations, however, can be taken much more quickly.\n\nIran remains an area where both a negotiated end to the war and renewed escalation are possible. The war and the resulting rise in prices were among the reasons for American voters’ discontent. Trump may try to end the conflict through an agreement, presenting it as the result of US military pressure. However, Tehran sees that he has been weakened politically and may be in no hurry to make concessions. In that case, the president may resort to further strikes in the hope of changing Iran’s position.\n\nOn Iran, Trump can count on support from some Democrats, though mainly for specific measures. Senator John Fetterman has consistently supported forceful military action, while Congressman Josh Gottheimer backed the initial strikes but argued for limiting the duration of the operation. Democrats may support sanctions, efforts to curb Iran’s nuclear programme or a diplomatic agreement, but they are unlikely to agree to another prolonged war. Congress will be able to tighten scrutiny of military spending, though its ability to block particular presidential decisions will remain limited.\n\nOn Russia, Trump may talk about negotiations, but the Kremlin remains unwilling to end the war. Trump may therefore try to secure a limited agreement, such as a ceasefire or a freeze in hostilities, that he can present as a diplomatic success. However, without reliable security guarantees, such a deal would leave Russia able to resume its aggression. Broader agreements with Putin and Xi Jinping, including on strategic stability, also remain difficult because of differences between the parties.\n\nThe new Congress will make it harder to implement agreements involving major concessions to Russia. Democrats Jeanne Shaheen, Chris Coons, Richard Blumenthal, Jacky Rosen and Chuck Schumer have previously supported peace initiatives while insisting on security guarantees for Ukraine, respect for its sovereignty and sanctions pressure on Moscow. They may support further sanctions or negotiations for a lasting peace, but they will oppose unilateral concessions to the Kremlin.\n\nIn relations with Europe, Trump has more scope for cooperation with Democrats, particularly on defence spending. Many Democrats, including Jeanne Shaheen, Chris Coons and Dick Durbin, agree that European countries need to contribute more to their own security. However, Trump also sees this as an opportunity to reduce US commitments, whereas most moderate Democrats support maintaining America’s leading role in NATO. At the same time, the view that Europe should take greater responsibility is gaining ground within the Democratic Party. Even a change of president in 2028 would therefore not guarantee a return to the previous model of transatlantic relations. Trump may also continue to use tariffs, threats to reduce the US military presence and other means of putting pressure on allies.\n\nA separate risk is the possibility of a military operation against Cuba. The administration is already imposing severe economic restrictions, and regime change in Cuba remains one of Marco Rubio’s priorities. Trump may see Cuba as a place where he can quickly demonstrate results without complicated negotiations with major powers. However, regime change by force could trigger a humanitarian crisis, a new wave of refugees and growing discontent among Americans.\n\nThe electoral defeat is also accelerating the struggle over the future of the Republican Party after Trump. Republican politicians must weigh the fact that his support helps them win primaries, while close ties to an unpopular president can hurt them in general elections. Potential successors, including JD Vance, Marco Rubio and Ron DeSantis, represent different visions for the party’s future. Yet an open break with Trump remains risky because of his influence over Republican voters. The struggle for leadership is therefore likely to involve a gradual distancing from particular presidential decisions, especially on the economy, tariffs and Iran.\n\nFollowing the elections, Trump is weaker at home, but his foreign policy decisions may become less predictable. In the near term, two developments will be worth watching: whether he tries to compensate for diplomatic difficulties through military escalation, and how quickly Republicans begin distancing themselves from his decisions as they prepare for the 2028 elections.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "The Iran Watcher",
@@ -438,7 +768,16 @@
       "media": "photo",
       "media_type": "photo",
       "lang": "en",
-      "note": "Analysis piece; Putin-Rezaei meeting framing is the author's."
+      "note": "Analysis piece; Putin-Rezaei meeting framing is the author's.",
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "John Spencer",
@@ -456,7 +795,16 @@
       "original_en": "Last day in Baku. Visited the \"Free Woman\" or \"Unveiling\" statue.  As a Western visitor to Azerbaijan, there are many surprises. One is the secular nature of a Muslim-majority country where women are not required to cover their hair, can dress as they choose, serve in government, and pursue careers across society. In the middle of Baku stands the Free Woman monument or statue of a liberated woman, depicting a woman removing her veil. Erected in 1960, it symbolizes Azerbaijani women’s emancipation, their freedom to abandon the veil, pursue education, and participate in public life.\n\nThat history remains relevant today. Azerbaijan recently tightened school uniform rules, restricting the hijab in public schools in defense of its longstanding secular tradition. Not a nationwide ban on the hijab as some media have claimed, but school dress restriction. Women are free to wear it outside school.\n\nI find the contrast with neighboring Iran striking, especially when it comes to women’s freedoms, including control over their own appearance and lives. \n\nIn Iran, 22-year-old Mahsa Amini died in September 2022 after being arrested by the morality police for allegedly violating hijab rules and then beaten to death in captivity. Her story is one of many of the human rights violation by Islamic Regime in Iran’s against their own society that includes murder, torture, sexual violence, and persecution of women, mowing down protestors with machine guns.\n\nBe more like Azerbaijan.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Reza Pahlavi Communications",
@@ -474,7 +822,16 @@
       "original_en": "Youth in Iran burn images of Mojtaba and Ali Khamenei, Ruhollah Khomeini, and the Islamic Republic flag while chanting \"Javid Shah!\"",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Salih Yilmaz",
@@ -492,7 +849,16 @@
       "original_en": "US-Iran conflict latest:\n\n1. Qatar is still trying to bridge the gap -- the Emir spoke with Trump about efforts to support negotiations toward a broader agreement ending the conflict.\n\n2. Iran has reportedly sent Washington a nuclear proposal via Qatar -- Reuters says Tehran wants its demands addressed before substantive discussions move forward, underscoring that major differences remain.\n\n3. Hormuz is part of the diplomatic track too -- Oman and Iran have discussed practical arrangements aimed at resuming navigation through the strait and moving toward more durable understandings.\n\n4. Trump is still weighing the next step -- Axios reports he met with his national security team and said a decision on Iran would come “soon.”\n\n5. Military activity has not stopped -- the Saudi-led coalition says it intercepted two Houthi ballistic missiles targeting Najran.\n\nBottom line: diplomacy looks more active than it did a week ago, but there is still no agreement on Hormuz, sanctions or the broader conflict.\n\nThat uncertainty is also showing up in oil: Brent has rebounded back toward $100/bbl after this week’s sharp selloff. #OOTT",
       "media": false,
       "media_type": null,
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Navroop Singh",
@@ -511,7 +877,16 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "Explicitly the author's theory; speculative."
+      "note": "Explicitly the author's theory; speculative.",
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "Ahmed Fouad Alkhatib",
@@ -529,7 +904,16 @@
       "original_en": "Hamas, the Muslim Brotherhood, the Islamic Republic of Iran, and an array of anti-Western groups and networks are unsurprisingly celebrating the Democrats’ sweep of the House and Senate. While the wars in Gaza and Iran contributed to yesterday’s Republican wipeout, most Americans are focused on their worsening economic prospects. High energy costs, persistent inflation, job outsourcing, AI anxiety, doubts about the value of university education, and fears of permanent middle-class stagnation drove the results. Some candidates blamed the President and Republicans for corruption, indifference, inequality, and reckless spending; others emphasized aggressive deportations, racism, bigotry, elitism, and deteriorating civil discourse.\n\nFor some Democratic candidates, however, anti-Israel politics, Israel and Palestine, and the war with Iran anchored both their campaigns and political identities. They linked affordability to aid to Israel and the Iran war, presenting America’s political crises and voters’ broader troubles as the consequence of pro-Israel lobbying and politics.\n\nThe question now is whether these newly elected Democrats intend to actually tackle affordability, or whether it was a Trojan horse to ascend to power and gain relevance. Blaming aid to Israel will do little to lower grocery prices, especially when this aid is likely to end soon and is a negligible line item of overall U.S. expenditure. Many voters care about Gaza, the Middle East, Russia, and Iran, and deeply consider their geopolitical and economic implications, but most prioritize their immediate circumstances over foreign policy.\n\nYesterday’s winners must be frustrated American voters; not Hamas, the Iranian regime, or the Muslim Brotherhood.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 23,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "ايران اينترنشنال",
@@ -547,7 +931,16 @@
       "original_en": "Reza Shafakhah, lawyer for political prisoner Amirhossein Mousavi, wrote on X that his client has been sentenced to death on a charge of \"corruption on earth through online activity.\" The hearing was held in August at Branch 15 of the Tehran Revolutionary Court, presided over by Abolghasem Salavati. Earlier, 14 political prisoners had issued a statement warning that Mousavi could be sentenced to death. Mousavi, a social media activist, has been detained since December 2024. His forced confessions, made after months in solitary confinement, were broadcast on Islamic Republic state TV in October 2025.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "fa"
+      "lang": "fa",
+      "board_rank": 24,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "followers: no data",
+        "topic": "Islamic Republic"
+      }
     },
     {
       "name": "Zvika Klein צביקה קליין",
@@ -565,7 +958,16 @@
       "original_en": "Reza Pahlavi will accept the Friedrich Naumann Foundation’s Freedom Prize in Frankfurt on November 7 as a trustee for the Iranian people.\n\nIn Alex Winston’s reporting for The Jerusalem Post, foundation trustee Ludwig Theodor Heuss explains that the prize belongs to the Iranian people and is to pass to democratically chosen representatives. Asking Pahlavi to hold it does not endorse him as Iran’s future leader or a restoration of the monarchy, Heuss says.\n\nWinston also obtained written responses from Pahlavi about his European meetings.\nhttps://t.co/SOXxiXTAFB",
       "media": false,
       "media_type": null,
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 25,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "حنانیا نفتالی",
@@ -583,7 +985,16 @@
       "original_en": "The regime tells Iranians to chant \"Death to Israel,\" but the people shout \"Javid Shah!\" instead. No one believes the clerics anymore. Iranians know who their real enemy is.",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 26,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "Woman Life Freedom"
+      }
     },
     {
       "name": "Apranik 🇮🇷🇮🇱",
@@ -601,7 +1012,16 @@
       "original_en": "For those in the West asking why Iranians haven’t flooded the streets again, Crown Prince @PahlaviReza gave the definitive answer at the European Parliament today.\n\nWhen asked about the timing of the next nationwide call for revolution, His Highness made it clear that a responsible leader does not send unarmed youth into a slaughterhouse before shifting the balance of power.\n\nIranians don't lack courage; they lack a level playing field. Stop expecting civilians to die barehanded while Western capitals still appease their killers! When the democratic world finally cuts the IRGC's lifelines and backs the Iranian people with concrete support and the means for legitimate self-defense, the final call will come, and the regime will FALL. \n\nJavid Shah 🇮🇷 https://t.co/6HXrQ5PQQb",
       "media": "video",
       "media_type": "video",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 27,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": "IRGC"
+      }
     },
     {
       "name": "ایران اینترنشنال - خبر فوری",
@@ -619,7 +1039,16 @@
       "original_en": "The media office of Prince Reza Pahlavi, responding to the death sentence handed to detained political prisoner Amirhossein Mousavi, wrote: he was sentenced to death after forced confessions extracted under torture, in the Islamic Republic's show trials, solely for expressing opinions in Iran's restricted online space.",
       "media": false,
       "media_type": null,
-      "lang": "fa"
+      "lang": "fa",
+      "board_rank": 28,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": "IRGC"
+      }
     }
   ],
   "outsiders": [
@@ -640,7 +1069,22 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Documentary teaser (DUDE 44); reconstructs a claimed F-15E shootdown/rescue - verify before reuse as fact."
+      "note": "Documentary teaser (DUDE 44); reconstructs a claimed F-15E shootdown/rescue - verify before reuse as fact.",
+      "board_rank": 3,
+      "draft_en": "Tonight's cut: an American F-15E goes down over Iran. One airman makes it out. The other chute fails. Broken back. Mountains. Iranian units closing the net.\n\nWashington threw 176 planes into the air, plus special forces and CIA teams, to pull him out. The Osint channel is rebuilding DUDE 44 in 3D (not AI) as one of the wildest U.S. rescues on record. Full version drops on their YouTube tonight.",
+      "draft_keywords": [
+        "American",
+        "Iran",
+        "Iranian",
+        "U.S"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.015,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
     },
     {
       "name": "Open Source Intel",
@@ -659,7 +1103,24 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "List of MOU terms is the author's summary; verify against the reported document before reuse."
+      "note": "List of MOU terms is the author's summary; verify against the reported document before reuse.",
+      "board_rank": 5,
+      "draft_en": "That Vance MOU with Tehran keeps recirculating. The bullet list people cite:\n\n- $300 billion reconstruction for Iran\n- enrichment stays, no shutdown demanded\n- talks to lift ALL U.S. sanctions\n- frozen Iranian money unlocked\n- American forces leave Iran's neighborhood within 30 days of a final deal\n- fighting paused on every front, Lebanon included\n- oil-export waivers while talks run\n\nTreat every line as a claim until you verify the signed text.",
+      "draft_keywords": [
+        "Vance",
+        "Tehran",
+        "Iran",
+        "U.S",
+        "American",
+        "Iran's"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.077,
+        "word_overlap": 0.391,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5
     },
     {
       "name": "Visegrád 24",
@@ -677,7 +1138,24 @@
       "original_en": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing former allies of hypocrisy, discrimination and selectively defending human rights.\n\nKavyani said she had experienced more homophobia, racism and sexism from left-wing activists over the past nine months than ever before.\n\nKavyani, who grew up under Iran's Islamic Republic before moving to Canada at 14, criticized pro-Palestine activists for advocating women's rights while remaining silent about Iranian women fighting against compulsory hijab laws and other restrictions imposed by Tehran.\n\nShe also accused some activists of defending the Iranian regime and sharing material supportive of the Islamic Revolutionary Guard Corps (IRGC).\n\nKavyani said Hamas's October 7, 2023, attack on Israel was a turning point, explaining that she could not support the killing, rape, torture or hostage-taking of civilians simply because they were Israeli.\n\nShe argued that human rights should apply equally to everyone, regardless of nationality or political beliefs, and accused parts of the movement of prioritizing ideology over protecting innocent people.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 6,
+      "draft_en": "Parishad Kavyani left Iran's Islamic Republic at 14 for Canada, then spent over two years in Palestine marches. She has walked away.\n\nOver the last nine months, she says, left-wing circles hit her with more bigotry - anti-gay, racial, sexist - than anything earlier. Allies preach women's rights, then go quiet on Iranian women fighting compulsory hijab. Some defend the regime and push IRGC-friendly posts.\n\nOctober 7 ended the excuse. She will not cover for killing, rape, torture, or hostage-taking of Israeli civilians. Rights are for everyone, or they are a costume.",
+      "draft_keywords": [
+        "Iran's",
+        "Islamic Republic",
+        "Iranian",
+        "regime",
+        "IRGC",
+        "Israeli"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.034,
+        "word_overlap": 0.56,
+        "max_copied_run": 6
+      },
+      "top10_rank": 6
     },
     {
       "name": "Open Source Intel",
@@ -696,7 +1174,21 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Same DUDE 44 documentary teaser as the sister post; not a breaking news claim."
+      "note": "Same DUDE 44 documentary teaser as the sister post; not a breaking news claim.",
+      "board_rank": 8,
+      "draft_en": "Teaser set for April 2, 2026, south of Isfahan: an American F-15E Strike Eagle runs toward Iranian missile and drone sites. On the ground, a $100,000 shoulder-fired round tracks a $30 million jet.\n\nWhat followed became DUDE 44 - Osint613's 3D rebuild (not AI) of a U.S. rescue that ranks with the rarest in recent memory. Full documentary hits their YouTube tonight.",
+      "draft_keywords": [
+        "American",
+        "Iranian",
+        "U.S"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.068,
+        "word_overlap": 0.615,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8
     },
     {
       "name": "Open Source Intel",
@@ -714,7 +1206,8 @@
       "original_en": "Iranian media has released footage of IRGC Ground Forces commander Mohammad Karami visiting islands in the Strait of Hormuz. https://t.co/mfwnRuoIVu",
       "media": "video",
       "media_type": "video",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 11
     },
     {
       "name": "Open Source Intel",
@@ -732,7 +1225,8 @@
       "original_en": "Iranian military analyst Mohammad Taheri:\n\n\"Iran's missiles can already reach most of Eastern Europe. Extending their range to 4,000 km would put most of Europe and North Africa within their reach. Iran may target European military bases if war breaks out.\"",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 13
     },
     {
       "name": "Open Source Intel",
@@ -751,7 +1245,8 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "Regime adviser quote relayed by an aggregator; tone is propaganda."
+      "note": "Regime adviser quote relayed by an aggregator; tone is propaganda.",
+      "board_rank": 14
     },
     {
       "name": "Open Source Intel",
@@ -770,7 +1265,8 @@
       "media": "video",
       "media_type": "video",
       "lang": "en",
-      "note": "Parsi's \"plausibility\" remark is speculative; he also rejects it as casus belli."
+      "note": "Parsi's \"plausibility\" remark is speculative; he also rejects it as casus belli.",
+      "board_rank": 16
     },
     {
       "name": "Anton Gerashchenko",
@@ -788,7 +1284,8 @@
       "original_en": "The Republicans’ electoral defeat weakens Trump at home but leaves him considerable freedom of action in foreign policy. Towards the end of their second terms, American presidents have often focused on international affairs to demonstrate their ability to deliver results: Bill Clinton sought an Israeli–Palestinian peace agreement, Barack Obama concluded the nuclear deal with Iran and restored relations with Cuba, and George W. Bush increased the US military presence in Iraq after the Republicans’ defeat in the 2006 elections. Trump, too, may step up his foreign policy initiatives in pursuit of quick wins.\n\nTrump has already created a degree of turbulence in US foreign policy. Let us hope it does not turn into a nosedive. His scope for quick diplomatic successes is limited: previous negotiations with Putin and Xi Jinping have produced no significant results, while new agreements would require time and mutual concessions. Decisions on limited military operations, however, can be taken much more quickly.\n\nIran remains an area where both a negotiated end to the war and renewed escalation are possible. The war and the resulting rise in prices were among the reasons for American voters’ discontent. Trump may try to end the conflict through an agreement, presenting it as the result of US military pressure. However, Tehran sees that he has been weakened politically and may be in no hurry to make concessions. In that case, the president may resort to further strikes in the hope of changing Iran’s position.\n\nOn Iran, Trump can count on support from some Democrats, though mainly for specific measures. Senator John Fetterman has consistently supported forceful military action, while Congressman Josh Gottheimer backed the initial strikes but argued for limiting the duration of the operation. Democrats may support sanctions, efforts to curb Iran’s nuclear programme or a diplomatic agreement, but they are unlikely to agree to another prolonged war. Congress will be able to tighten scrutiny of military spending, though its ability to block particular presidential decisions will remain limited.\n\nOn Russia, Trump may talk about negotiations, but the Kremlin remains unwilling to end the war. Trump may therefore try to secure a limited agreement, such as a ceasefire or a freeze in hostilities, that he can present as a diplomatic success. However, without reliable security guarantees, such a deal would leave Russia able to resume its aggression. Broader agreements with Putin and Xi Jinping, including on strategic stability, also remain difficult because of differences between the parties.\n\nThe new Congress will make it harder to implement agreements involving major concessions to Russia. Democrats Jeanne Shaheen, Chris Coons, Richard Blumenthal, Jacky Rosen and Chuck Schumer have previously supported peace initiatives while insisting on security guarantees for Ukraine, respect for its sovereignty and sanctions pressure on Moscow. They may support further sanctions or negotiations for a lasting peace, but they will oppose unilateral concessions to the Kremlin.\n\nIn relations with Europe, Trump has more scope for cooperation with Democrats, particularly on defence spending. Many Democrats, including Jeanne Shaheen, Chris Coons and Dick Durbin, agree that European countries need to contribute more to their own security. However, Trump also sees this as an opportunity to reduce US commitments, whereas most moderate Democrats support maintaining America’s leading role in NATO. At the same time, the view that Europe should take greater responsibility is gaining ground within the Democratic Party. Even a change of president in 2028 would therefore not guarantee a return to the previous model of transatlantic relations. Trump may also continue to use tariffs, threats to reduce the US military presence and other means of putting pressure on allies.\n\nA separate risk is the possibility of a military operation against Cuba. The administration is already imposing severe economic restrictions, and regime change in Cuba remains one of Marco Rubio’s priorities. Trump may see Cuba as a place where he can quickly demonstrate results without complicated negotiations with major powers. However, regime change by force could trigger a humanitarian crisis, a new wave of refugees and growing discontent among Americans.\n\nThe electoral defeat is also accelerating the struggle over the future of the Republican Party after Trump. Republican politicians must weigh the fact that his support helps them win primaries, while close ties to an unpopular president can hurt them in general elections. Potential successors, including JD Vance, Marco Rubio and Ron DeSantis, represent different visions for the party’s future. Yet an open break with Trump remains risky because of his influence over Republican voters. The struggle for leadership is therefore likely to involve a gradual distancing from particular presidential decisions, especially on the economy, tariffs and Iran.\n\nFollowing the elections, Trump is weaker at home, but his foreign policy decisions may become less predictable. In the near term, two developments will be worth watching: whether he tries to compensate for diplomatic difficulties through military escalation, and how quickly Republicans begin distancing themselves from his decisions as they prepare for the 2028 elections.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 17
     },
     {
       "name": "The Iran Watcher",
@@ -807,7 +1304,8 @@
       "media": "photo",
       "media_type": "photo",
       "lang": "en",
-      "note": "Analysis piece; Putin-Rezaei meeting framing is the author's."
+      "note": "Analysis piece; Putin-Rezaei meeting framing is the author's.",
+      "board_rank": 18
     },
     {
       "name": "John Spencer",
@@ -825,7 +1323,8 @@
       "original_en": "Last day in Baku. Visited the \"Free Woman\" or \"Unveiling\" statue.  As a Western visitor to Azerbaijan, there are many surprises. One is the secular nature of a Muslim-majority country where women are not required to cover their hair, can dress as they choose, serve in government, and pursue careers across society. In the middle of Baku stands the Free Woman monument or statue of a liberated woman, depicting a woman removing her veil. Erected in 1960, it symbolizes Azerbaijani women’s emancipation, their freedom to abandon the veil, pursue education, and participate in public life.\n\nThat history remains relevant today. Azerbaijan recently tightened school uniform rules, restricting the hijab in public schools in defense of its longstanding secular tradition. Not a nationwide ban on the hijab as some media have claimed, but school dress restriction. Women are free to wear it outside school.\n\nI find the contrast with neighboring Iran striking, especially when it comes to women’s freedoms, including control over their own appearance and lives. \n\nIn Iran, 22-year-old Mahsa Amini died in September 2022 after being arrested by the morality police for allegedly violating hijab rules and then beaten to death in captivity. Her story is one of many of the human rights violation by Islamic Regime in Iran’s against their own society that includes murder, torture, sexual violence, and persecution of women, mowing down protestors with machine guns.\n\nBe more like Azerbaijan.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 19
     },
     {
       "name": "Reza Pahlavi Communications",
@@ -843,7 +1342,8 @@
       "original_en": "Youth in Iran burn images of Mojtaba and Ali Khamenei, Ruhollah Khomeini, and the Islamic Republic flag while chanting \"Javid Shah!\"",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 20
     },
     {
       "name": "Salih Yilmaz",
@@ -861,7 +1361,8 @@
       "original_en": "US-Iran conflict latest:\n\n1. Qatar is still trying to bridge the gap -- the Emir spoke with Trump about efforts to support negotiations toward a broader agreement ending the conflict.\n\n2. Iran has reportedly sent Washington a nuclear proposal via Qatar -- Reuters says Tehran wants its demands addressed before substantive discussions move forward, underscoring that major differences remain.\n\n3. Hormuz is part of the diplomatic track too -- Oman and Iran have discussed practical arrangements aimed at resuming navigation through the strait and moving toward more durable understandings.\n\n4. Trump is still weighing the next step -- Axios reports he met with his national security team and said a decision on Iran would come “soon.”\n\n5. Military activity has not stopped -- the Saudi-led coalition says it intercepted two Houthi ballistic missiles targeting Najran.\n\nBottom line: diplomacy looks more active than it did a week ago, but there is still no agreement on Hormuz, sanctions or the broader conflict.\n\nThat uncertainty is also showing up in oil: Brent has rebounded back toward $100/bbl after this week’s sharp selloff. #OOTT",
       "media": false,
       "media_type": null,
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 21
     },
     {
       "name": "Navroop Singh",
@@ -880,7 +1381,8 @@
       "media": false,
       "media_type": null,
       "lang": "en",
-      "note": "Explicitly the author's theory; speculative."
+      "note": "Explicitly the author's theory; speculative.",
+      "board_rank": 22
     },
     {
       "name": "Ahmed Fouad Alkhatib",
@@ -898,7 +1400,8 @@
       "original_en": "Hamas, the Muslim Brotherhood, the Islamic Republic of Iran, and an array of anti-Western groups and networks are unsurprisingly celebrating the Democrats’ sweep of the House and Senate. While the wars in Gaza and Iran contributed to yesterday’s Republican wipeout, most Americans are focused on their worsening economic prospects. High energy costs, persistent inflation, job outsourcing, AI anxiety, doubts about the value of university education, and fears of permanent middle-class stagnation drove the results. Some candidates blamed the President and Republicans for corruption, indifference, inequality, and reckless spending; others emphasized aggressive deportations, racism, bigotry, elitism, and deteriorating civil discourse.\n\nFor some Democratic candidates, however, anti-Israel politics, Israel and Palestine, and the war with Iran anchored both their campaigns and political identities. They linked affordability to aid to Israel and the Iran war, presenting America’s political crises and voters’ broader troubles as the consequence of pro-Israel lobbying and politics.\n\nThe question now is whether these newly elected Democrats intend to actually tackle affordability, or whether it was a Trojan horse to ascend to power and gain relevance. Blaming aid to Israel will do little to lower grocery prices, especially when this aid is likely to end soon and is a negligible line item of overall U.S. expenditure. Many voters care about Gaza, the Middle East, Russia, and Iran, and deeply consider their geopolitical and economic implications, but most prioritize their immediate circumstances over foreign policy.\n\nYesterday’s winners must be frustrated American voters; not Hamas, the Iranian regime, or the Muslim Brotherhood.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 23
     },
     {
       "name": "ايران اينترنشنال",
@@ -916,7 +1419,8 @@
       "original_en": "Reza Shafakhah, lawyer for political prisoner Amirhossein Mousavi, wrote on X that his client has been sentenced to death on a charge of \"corruption on earth through online activity.\" The hearing was held in August at Branch 15 of the Tehran Revolutionary Court, presided over by Abolghasem Salavati. Earlier, 14 political prisoners had issued a statement warning that Mousavi could be sentenced to death. Mousavi, a social media activist, has been detained since December 2024. His forced confessions, made after months in solitary confinement, were broadcast on Islamic Republic state TV in October 2025.",
       "media": "photo",
       "media_type": "photo",
-      "lang": "fa"
+      "lang": "fa",
+      "board_rank": 24
     },
     {
       "name": "Zvika Klein צביקה קליין",
@@ -934,7 +1438,8 @@
       "original_en": "Reza Pahlavi will accept the Friedrich Naumann Foundation’s Freedom Prize in Frankfurt on November 7 as a trustee for the Iranian people.\n\nIn Alex Winston’s reporting for The Jerusalem Post, foundation trustee Ludwig Theodor Heuss explains that the prize belongs to the Iranian people and is to pass to democratically chosen representatives. Asking Pahlavi to hold it does not endorse him as Iran’s future leader or a restoration of the monarchy, Heuss says.\n\nWinston also obtained written responses from Pahlavi about his European meetings.\nhttps://t.co/SOXxiXTAFB",
       "media": false,
       "media_type": null,
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 25
     },
     {
       "name": "حنانیا نفتالی",
@@ -952,7 +1457,8 @@
       "original_en": "The regime tells Iranians to chant \"Death to Israel,\" but the people shout \"Javid Shah!\" instead. No one believes the clerics anymore. Iranians know who their real enemy is.",
       "media": "video",
       "media_type": "video",
-      "lang": null
+      "lang": null,
+      "board_rank": 26
     },
     {
       "name": "Apranik 🇮🇷🇮🇱",
@@ -970,7 +1476,8 @@
       "original_en": "For those in the West asking why Iranians haven’t flooded the streets again, Crown Prince @PahlaviReza gave the definitive answer at the European Parliament today.\n\nWhen asked about the timing of the next nationwide call for revolution, His Highness made it clear that a responsible leader does not send unarmed youth into a slaughterhouse before shifting the balance of power.\n\nIranians don't lack courage; they lack a level playing field. Stop expecting civilians to die barehanded while Western capitals still appease their killers! When the democratic world finally cuts the IRGC's lifelines and backs the Iranian people with concrete support and the means for legitimate self-defense, the final call will come, and the regime will FALL. \n\nJavid Shah 🇮🇷 https://t.co/6HXrQ5PQQb",
       "media": "video",
       "media_type": "video",
-      "lang": "en"
+      "lang": "en",
+      "board_rank": 27
     },
     {
       "name": "ایران اینترنشنال - خبر فوری",
@@ -988,7 +1495,8 @@
       "original_en": "The media office of Prince Reza Pahlavi, responding to the death sentence handed to detained political prisoner Amirhossein Mousavi, wrote: he was sentenced to death after forced confessions extracted under torture, in the Islamic Republic's show trials, solely for expressing opinions in Iran's restricted online space.",
       "media": false,
       "media_type": null,
-      "lang": "fa"
+      "lang": "fa",
+      "board_rank": 28
     }
   ],
   "patterns": [
@@ -1200,5 +1708,1782 @@
     }
   ],
   "you_rank": null,
-  "trend_input_only_posts": []
+  "trend_input_only_posts": [],
+  "trend_input_only": [],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2117957207451181177",
+      "handle": "@realMaalouf",
+      "views": 2717655,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 2,
+      "id": "2118186886519042158",
+      "handle": "@realMaalouf",
+      "views": 1160856,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 3,
+      "id": "2118277067854709040",
+      "handle": "@Osint613",
+      "views": 228768,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2118024412779655226",
+      "handle": "@realMaalouf",
+      "views": 148581,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2118129348523724817",
+      "handle": "@Osint613",
+      "views": 148038,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2118109534904537365",
+      "handle": "@visegrad24",
+      "views": 143500,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2118006433849438341",
+      "handle": "@realMaalouf",
+      "views": 131508,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 8,
+      "id": "2118414369704808846",
+      "handle": "@Osint613",
+      "views": 124418,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2118079122782179694",
+      "handle": "@realMaalouf",
+      "views": 119190,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 10,
+      "id": "2118378509664133324",
+      "handle": "@realMaalouf",
+      "views": 105886,
+      "lane": "watchlist"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-06",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Iranian",
+        "rank": 1,
+        "score": 303.4,
+        "posts": 13,
+        "authors": 7
+      },
+      {
+        "keyword": "Iran",
+        "rank": 2,
+        "score": 281.4,
+        "posts": 12,
+        "authors": 7
+      },
+      {
+        "keyword": "Islamic",
+        "rank": 3,
+        "score": 171.9,
+        "posts": 9,
+        "authors": 8
+      },
+      {
+        "keyword": "Iran's",
+        "rank": 4,
+        "score": 125.9,
+        "posts": 8,
+        "authors": 6
+      },
+      {
+        "keyword": "regime",
+        "rank": 5,
+        "score": 121.0,
+        "posts": 7,
+        "authors": 7
+      },
+      {
+        "keyword": "Islamic Republic",
+        "rank": 6,
+        "score": 85.0,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "Israel",
+        "rank": 7,
+        "score": 61.0,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "American",
+        "rank": 8,
+        "score": 60.2,
+        "posts": 5,
+        "authors": 4
+      },
+      {
+        "keyword": "Trump",
+        "rank": 9,
+        "score": 59.8,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "European",
+        "rank": 10,
+        "score": 57.6,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Muslim Brotherhood",
+        "rank": 11,
+        "score": 55.0,
+        "posts": 4,
+        "authors": 2
+      },
+      {
+        "keyword": "Europe",
+        "rank": 12,
+        "score": 54.1,
+        "posts": 4,
+        "authors": 3
+      },
+      {
+        "keyword": "Tehran",
+        "rank": 13,
+        "score": 46.4,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Russia",
+        "rank": 14,
+        "score": 44.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Javid Shah",
+        "rank": 15,
+        "score": 42.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "IRGC",
+        "rank": 16,
+        "score": 39.7,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Vance",
+        "rank": 17,
+        "score": 38.8,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "West",
+        "rank": 18,
+        "score": 38.6,
+        "posts": 4,
+        "authors": 3
+      },
+      {
+        "keyword": "Hormuz",
+        "rank": 19,
+        "score": 37.0,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Putin",
+        "rank": 20,
+        "score": 36.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "U.S",
+        "rank": 21,
+        "score": 33.3,
+        "posts": 4,
+        "authors": 2
+      },
+      {
+        "keyword": "States",
+        "rank": 22,
+        "score": 32.9,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Israeli",
+        "rank": 23,
+        "score": 31.1,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "America's",
+        "rank": 24,
+        "score": 29.1,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "freedom",
+        "rank": 25,
+        "score": 28.3,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Arab",
+        "rank": 26,
+        "score": 28.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Western",
+        "rank": 27,
+        "score": 27.6,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Democratic",
+        "rank": 28,
+        "score": 27.6,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Congress",
+        "rank": 29,
+        "score": 27.4,
+        "posts": 3,
+        "authors": 2
+      },
+      {
+        "keyword": "Abdul",
+        "rank": 30,
+        "score": 26.7,
+        "posts": 4,
+        "authors": 1
+      },
+      {
+        "keyword": "America",
+        "rank": 31,
+        "score": 23.9,
+        "posts": 3,
+        "authors": 2
+      },
+      {
+        "keyword": "October 7",
+        "rank": 32,
+        "score": 22.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Dude 44",
+        "rank": 33,
+        "score": 22.1,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Reza Pahlavi",
+        "rank": 34,
+        "score": 21.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "political prisoner Amirhossein",
+        "rank": 35,
+        "score": 20.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "prisoner Amirhossein Mousavi",
+        "rank": 36,
+        "score": 20.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Amirhossein Mousavi wrote",
+        "rank": 37,
+        "score": 20.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Palestine",
+        "rank": 38,
+        "score": 20.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Iranian regime",
+        "rank": 39,
+        "score": 20.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Strait",
+        "rank": 40,
+        "score": 20.2,
+        "posts": 2,
+        "authors": 2
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-06",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-06T11:35:00+00:00",
+      "label24": "05.11 11:35 - 06.11 11:35 UTC",
+      "label48": "04.11 11:35 - 06.11 11:35 UTC"
+    },
+    "corpus": {
+      "posts": 16,
+      "min_views": 50000,
+      "lanes": {
+        "watchlist": 8,
+        "outsider": 8,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 6/10 (60%) matched trends · trend 6, visual 3, coincidence/other 1",
+      "headline": "9 of 28 board hits (32%) matched 24-48 h trends. Median views: trend 124.4K vs non-trend 16.4K (mean 125.2K vs 240.4K). Watchlist: 2/8 on trend. 11 hits with video, median 85.8K vs 32.9K without.",
+      "takeaway": "Street chants (Javid Shah), capital charges (Mousavi), and diplomacy theater (Vance MOU / Hormuz) are the three lanes worth posting from today.",
+      "stats": {
+        "all": {
+          "n": 28,
+          "trend_n": 9,
+          "trend_pct": 32,
+          "avg_trend": 125217,
+          "avg_other": 240411,
+          "median_trend": 124418,
+          "median_other": 16429,
+          "verdicts": {
+            "trend": 9,
+            "visual": 13,
+            "author/audience": 0,
+            "coincidence/other": 6
+          }
+        },
+        "watchlist": {
+          "n": 8,
+          "trend_n": 2,
+          "trend_pct": 25,
+          "avg_trend": 127234,
+          "avg_other": 715394,
+          "median_trend": 127234,
+          "median_other": 125349,
+          "verdicts": {
+            "trend": 2,
+            "visual": 4,
+            "author/audience": 0,
+            "coincidence/other": 2
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 7,
+          "trend_pct": 35,
+          "avg_trend": 124640,
+          "avg_other": 21189,
+          "median_trend": 124418,
+          "median_other": 15017,
+          "verdicts": {
+            "trend": 7,
+            "visual": 9,
+            "author/audience": 0,
+            "coincidence/other": 4
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 6,
+          "trend_pct": 60,
+          "avg_trend": 149865,
+          "avg_other": 1032302,
+          "median_trend": 145769,
+          "median_other": 646182,
+          "verdicts": {
+            "trend": 6,
+            "visual": 3,
+            "author/audience": 0,
+            "coincidence/other": 1
+          }
+        },
+        "media": {
+          "video_n": 11,
+          "median_video": 85782,
+          "other_n": 8,
+          "median_other": 32908
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "IRGC",
+        "keywords": [
+          "Iran",
+          "IRGC"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 7,
+        "views_24h": 124418,
+        "views_prev24h": 766353,
+        "views_48h": 890771,
+        "momentum": "cooling x0.17",
+        "heat_raw": 20.3,
+        "evidence": [
+          {
+            "handle": "@Osint613",
+            "views": 228768,
+            "url": "https://x.com/Osint613/status/2118277067854709040",
+            "hook": "OUT TONIGHT: An American F-15E was shot down over Iran.\n\nThe pilot was rescued, his partners parachute failed, he was left behind with a broken back, hiding in ",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Osint613",
+            "views": 148038,
+            "url": "https://x.com/Osint613/status/2118129348523724817",
+            "hook": "I saw that Vance post, does anyone remember that MOU deal he negotiated with the Iran?\n\nSome of the commitments: \n\n1. $300 billion reconstruction and developmen",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@visegrad24",
+            "views": 143500,
+            "url": "https://x.com/visegrad24/status/2118109534904537365",
+            "hook": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Woman Life Freedom",
+        "keywords": [
+          "Iranian"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 7,
+        "views_24h": 124418,
+        "views_prev24h": 766353,
+        "views_48h": 890771,
+        "momentum": "cooling x0.17",
+        "heat_raw": 20.3,
+        "evidence": [
+          {
+            "handle": "@Osint613",
+            "views": 228768,
+            "url": "https://x.com/Osint613/status/2118277067854709040",
+            "hook": "OUT TONIGHT: An American F-15E was shot down over Iran.\n\nThe pilot was rescued, his partners parachute failed, he was left behind with a broken back, hiding in ",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Osint613",
+            "views": 148038,
+            "url": "https://x.com/Osint613/status/2118129348523724817",
+            "hook": "I saw that Vance post, does anyone remember that MOU deal he negotiated with the Iran?\n\nSome of the commitments: \n\n1. $300 billion reconstruction and developmen",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@visegrad24",
+            "views": 143500,
+            "url": "https://x.com/visegrad24/status/2118109534904537365",
+            "hook": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Islamic Republic",
+        "keywords": [
+          "Iran",
+          "Islamic Republic",
+          "Tehran"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 6,
+        "views_24h": 124418,
+        "views_prev24h": 670624,
+        "views_48h": 795042,
+        "momentum": "cooling x0.20",
+        "heat_raw": 17.81,
+        "evidence": [
+          {
+            "handle": "@Osint613",
+            "views": 228768,
+            "url": "https://x.com/Osint613/status/2118277067854709040",
+            "hook": "OUT TONIGHT: An American F-15E was shot down over Iran.\n\nThe pilot was rescued, his partners parachute failed, he was left behind with a broken back, hiding in ",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Osint613",
+            "views": 148038,
+            "url": "https://x.com/Osint613/status/2118129348523724817",
+            "hook": "I saw that Vance post, does anyone remember that MOU deal he negotiated with the Iran?\n\nSome of the commitments: \n\n1. $300 billion reconstruction and developmen",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@visegrad24",
+            "views": 143500,
+            "url": "https://x.com/visegrad24/status/2118109534904537365",
+            "hook": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 88
+      },
+      {
+        "name": "Khamenei",
+        "keywords": [
+          "Iranian regime"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 143500,
+        "views_48h": 143500,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 2.58,
+        "evidence": [
+          {
+            "handle": "@visegrad24",
+            "views": 143500,
+            "url": "https://x.com/visegrad24/status/2118109534904537365",
+            "hook": "Iranian-born Canadian activist Parishad Kavyani, who spent more than two years marching in support of Palestine, has publicly broken with the movement, accusing",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 13
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Crown Prince at the European Parliament",
+        "topic": "monarchy",
+        "keywords": [
+          "Reza Pahlavi",
+          "Crown Prince",
+          "IRGC"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Short EP clip of the answer plus a simple IRGC lifelines graphic end card.",
+        "angle": "Use Crown Prince Reza Pahlavi's European Parliament answer: do not send unarmed youth into a slaughterhouse before the balance shifts; cut IRGC lifelines first.",
+        "hook_en": "Why no new street wave yet? Crown Prince Reza Pahlavi: do not send unarmed youth into a slaughterhouse while the IRGC still has its lifelines.",
+        "why": "patriot_apranik clip is the best English soundbite of the window on the board.",
+        "x_keywords": [
+          "Reza Pahlavi",
+          "Crown Prince",
+          "IRGC"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Parishad Kavyani break",
+        "topic": "Woman Life Freedom",
+        "keywords": [
+          "Islamic Republic",
+          "Iranian",
+          "IRGC"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Quote card with short bio line: grew up under the Islamic Republic, left for Canada at 14.",
+        "angle": "She marched for Palestine for two years, then named the silence on Iranian women and IRGC fans inside the movement.",
+        "hook_en": "She marched for Palestine for two years. Then she named the silence on Iranian women and the IRGC fans still defending the Islamic Republic.",
+        "why": "visegrad24 writeup (~143k views) is the high-view English narrative of the day.",
+        "x_keywords": [
+          "Islamic Republic",
+          "IRGC"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Hormuz / Karami visit",
+        "topic": "IRGC",
+        "keywords": [
+          "IRGC",
+          "Iran"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Hormuz map pin next to a short still from Iranian-media coverage of Karami's island visit.",
+        "angle": "IRGC Ground Forces signaling on the Strait of Hormuz islands while oil and diplomacy headlines run in parallel.",
+        "hook_en": "IRGC Ground Forces chief on the Strait of Hormuz islands inside Iran - while Qatar talks and Brent sits near $100.",
+        "why": "IRGC is #2 in today's X keyword sample (x3.71 vs prior 24h); Hormuz thread ties military signal to oil.",
+        "x_keywords": [
+          "IRGC"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Compulsory hijab contrast",
+        "topic": "Woman Life Freedom",
+        "keywords": [
+          "Iran",
+          "Woman Life Freedom",
+          "freedom"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Baku Free Woman statue unveiling photo next to a sourced Mahsa Amini memorial still.",
+        "angle": "Same region, opposite rules for women's hair: Azerbaijan's free-woman statue vs Iran's morality police, framed for Woman Life Freedom.",
+        "hook_en": "Azerbaijan's Free Woman statue vs Iran's morality police. Same region. Opposite rules for women's hair. That is the Woman Life Freedom contrast.",
+        "why": "SpencerGuard Baku post gives a clean visual contrast; Woman Life Freedom is #3 in the X keyword sample (x11.96).",
+        "x_keywords": [
+          "Woman Life Freedom"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Javid Shah vs scripted hate",
+        "topic": "monarchy",
+        "keywords": [
+          "Javid Shah",
+          "Islamic Republic",
+          "Iran"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Side-by-side vertical: regime rally Death-to chant vs street clip of Javid Shah (sourced, faces blurred if needed).",
+        "angle": "Show that the Islamic Republic still scripts hate while Iranians answer with Javid Shah on the street.",
+        "hook_en": "The Islamic Republic still hands out Death to Israel cards. Iranians answer with Javid Shah.",
+        "why": "HananyaPersian clip and PahlaviComms burn video are the day's clearest regime-vs-people contrast on the board.",
+        "x_keywords": [
+          "Javid Shah",
+          "Islamic Republic"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Mousavi death sentence",
+        "topic": "Islamic Republic",
+        "keywords": [
+          "Iran",
+          "Tehran",
+          "Islamic Republic"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "3-slide carousel: name Amirhossein Mousavi, charge and Branch 15 timeline, closing NoToExecution slide.",
+        "angle": "Plain English walkthrough of a death sentence in Iran for social-media speech, centered on Tehran court Branch 15.",
+        "hook_en": "The Islamic Republic just sentenced a social-media activist to death for posts. Branch 15 in Tehran. Forced confessions on state TV.",
+        "why": "IranIntl / IranIntlbrk / Pahlavi office outsider posts still carry the Mousavi verdict in today's outsider lane.",
+        "x_keywords": [
+          "Islamic Republic"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Frankfurt Freedom Prize",
+        "topic": "monarchy",
+        "keywords": [
+          "Reza Pahlavi",
+          "freedom",
+          "Iranian"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "Event poster mock plus a short Heuss quote card on trusteeship for the Iranian people.",
+        "angle": "Frame Nov 7 Frankfurt as Reza Pahlavi accepting a freedom prize as trustee, not a coronation.",
+        "hook_en": "Nov 7, Frankfurt: Reza Pahlavi accepts a Freedom Prize as trustee for the Iranian people - not a crown.",
+        "why": "ZvikaKlein / Jerusalem Post framing is the clean pre-event post in today's outsider set.",
+        "x_keywords": [
+          "Reza Pahlavi"
+        ],
+        "x_rank": 7,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Vance MOU checklist",
+        "topic": "Islamic Republic",
+        "keywords": [
+          "Vance",
+          "Iran",
+          "U.S"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "7-slide checklist carousel, one claimed MOU term per slide, verify-before-share footer.",
+        "angle": "List the seven circulating Vance-Iran MOU claims without treating them as signed U.S. policy.",
+        "hook_en": "Seven lines from the Vance Iran MOU people keep quoting - $300B, enrichment stays, U.S. pullback. Verify before you share.",
+        "why": "Osint613 Vance post is still a top outsider (~148k views) on today's board.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Trustee, not king: what the Frankfurt Freedom Prize actually says",
+        "thesis": "The Naumann Foundation's trusteeship language around Reza Pahlavi clarifies how European liberals can honor Iranian resistance without rubber-stamping monarchy.",
+        "outline": [
+          "Heuss quote on the prize belonging to the Iranian people",
+          "Pahlavi's European Parliament timing answer",
+          "How diaspora rallies (Frankfurt Nov 7) fit a non-coronation frame",
+          "What Western media still gets wrong about Javid Shah"
+        ],
+        "keywords": [
+          "Reza Pahlavi",
+          "monarchy",
+          "Javid Shah"
+        ],
+        "visual": "Cover: Frankfurt prize poster mock; inline: Heuss quote card and Lion-and-Sun end mark.",
+        "why": "Reza Pahlavi and monarchy sit in today's X keyword top 10; Frankfurt outsider posts are already on the board.",
+        "x_keywords": [
+          "Reza Pahlavi",
+          "monarchy",
+          "Javid Shah"
+        ]
+      },
+      {
+        "title": "Death for a tweet: the Mousavi verdict and show-trial machinery",
+        "thesis": "Amirhossein Mousavi's death sentence shows how Branch 15, forced confessions and state TV still convert online speech into capital charges under the Islamic Republic.",
+        "outline": [
+          "Timeline from detention to Salavati court",
+          "Role of forced confessions on IRIB",
+          "Pahlavi office statement and NoToExecution campaign",
+          "What Western governments can do before the next hanging"
+        ],
+        "keywords": [
+          "Islamic Republic",
+          "Iran",
+          "Tehran"
+        ],
+        "visual": "Cover: timeline graphic arrest to death sentence; inline: Branch 15 / Salavati callout.",
+        "why": "Islamic Republic is #6 in the X keyword sample and the Mousavi outsider cluster is live on today's board.",
+        "x_keywords": [
+          "Islamic Republic"
+        ]
+      },
+      {
+        "title": "After the midterms: Vance MOU, Qatar track, and Tehran's read of Trump",
+        "thesis": "From circulating MOU terms to Qatar mediation, Iran is stress-testing whether Washington takes a deal or escalates.",
+        "outline": [
+          "Vance MOU term sheet (with verification caveats)",
+          "Qatar/Hormuz diplomacy vs oil spike",
+          "IRGC island signaling",
+          "Where Reza Pahlavi and the diaspora fit a post-deal or post-strike Iran"
+        ],
+        "keywords": [
+          "Iran",
+          "IRGC",
+          "Reza Pahlavi"
+        ],
+        "visual": "Cover: split panel MOU checklist vs Hormuz map; inline: IRGC claim vs verification note.",
+        "why": "IRGC and Iran lead today's X keyword heat; Osint613 Vance post is a top outsider.",
+        "x_keywords": [
+          "IRGC",
+          "Reza Pahlavi"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2117957207451181177",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 2717655,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118186886519042158",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 1160856,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118024412779655226",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 148581,
+        "trend_match": 63,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Islamic",
+          "Israel",
+          "October 7"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118006433849438341",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 131508,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118079122782179694",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 119190,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118378509664133324",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 105886,
+        "trend_match": 55,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Islamic",
+          "Europe",
+          "America"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118047689703145869",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 88670,
+        "trend_match": 31,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "Europe",
+          "America"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118309069010112881",
+        "handle": "@realMaalouf",
+        "lane": "watchlist",
+        "views": 74482,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118277067854709040",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 228768,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118129348523724817",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 148038,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118109534904537365",
+        "handle": "@visegrad24",
+        "lane": "outsider",
+        "views": 143500,
+        "trend_match": 94,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Islamic",
+          "Iran's",
+          "Israel",
+          "IRGC",
+          "Israeli",
+          "October 7"
+        ],
+        "media": "image",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118414369704808846",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 124418,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118286122463944797",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 95729,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Iranian",
+          "IRGC"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2117951268496830469",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 85782,
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Iran's",
+          "Europe"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2117938408924254376",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 77440,
+        "trend_match": 76,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Iran's",
+          "America"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2117982215892066614",
+        "handle": "@Osint613",
+        "lane": "outsider",
+        "views": 64536,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Iranian",
+          "Iran",
+          "Israeli"
+        ],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2117980367860756526",
+        "handle": "@Gerashchenko_en",
+        "lane": "outsider",
+        "views": 49147,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118481246275899580",
+        "handle": "@TheIranWatcher",
+        "lane": "outsider",
+        "views": 16669,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118300204864864412",
+        "handle": "@SpencerGuard",
+        "lane": "outsider",
+        "views": 16429,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118245178305548582",
+        "handle": "@PahlaviComms",
+        "lane": "outsider",
+        "views": 16358,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118612595707941327",
+        "handle": "@salihenergy",
+        "lane": "outsider",
+        "views": 15201,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118049041212985523",
+        "handle": "@TheNavroopSingh",
+        "lane": "outsider",
+        "views": 15017,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2117989028653842769",
+        "handle": "@afalkhatib",
+        "lane": "outsider",
+        "views": 13536,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2117947797768962299",
+        "handle": "@IranIntl",
+        "lane": "outsider",
+        "views": 11851,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": null,
+        "topic": "Islamic Republic",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118393717719515410",
+        "handle": "@ZvikaKlein",
+        "lane": "outsider",
+        "views": 8112,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2118230244834337100",
+        "handle": "@HananyaPersian",
+        "lane": "outsider",
+        "views": 7339,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": "Woman Life Freedom",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118067666850353158",
+        "handle": "@patriot_apranik",
+        "lane": "outsider",
+        "views": 5533,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2118241262554026460",
+        "handle": "@IranIntlbrk",
+        "lane": "outsider",
+        "views": 4535,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": "IRGC",
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-06T11:37:00+00:00",
+      "window_start": "2026-11-04T11:37:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [
+        "Free Iran",
+        "Persian",
+        "Iranian people",
+        "Iran"
+      ],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Khamenei",
+          "query": "\"Khamenei\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 489427,
+            "median": 19,
+            "top": {
+              "views": 485359,
+              "url": "https://x.com/Iran_Army_Stan/status/2118561654321680695",
+              "handle": "@Iran_Army_Stan",
+              "text": "BREAKING: Iran's Supreme Leader Mojtaba Khamenei sends an urgent message to Putin, delivered in person by Iran's SNSC Se"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 84894,
+            "median": 178,
+            "top": {
+              "views": 71829,
+              "url": "https://x.com/DailyIranNews/status/2118018686053396650",
+              "handle": "@DailyIranNews",
+              "text": "BREAKING: Iran's Supreme Leader Ayatollah Mojtaba Khamenei says Midterm results won't shift US stance on Iran Khamenei s"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 574321,
+            "top": {
+              "views": 485359,
+              "url": "https://x.com/Iran_Army_Stan/status/2118561654321680695",
+              "handle": "@Iran_Army_Stan",
+              "text": "BREAKING: Iran's Supreme Leader Mojtaba Khamenei sends an urgent message to Putin, delivered in person by Iran's SNSC Se"
+            }
+          },
+          "change": 5.77,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.99,
+          "rank": 1
+        },
+        {
+          "keyword": "IRGC",
+          "query": "\"IRGC\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 23,
+            "total": 49727,
+            "median": 141,
+            "top": {
+              "views": 20038,
+              "url": "https://x.com/AMK_Mapping_/status/2118328239504658504",
+              "handle": "@AMK_Mapping_",
+              "text": "IRGC ground forces commander Mohammad Karami visited IRGC personnel stationed on islands in the Strait of Hormuz recentl"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 13393,
+            "median": 66,
+            "top": {
+              "views": 6163,
+              "url": "https://x.com/IranIntl_En/status/2118194783114203154",
+              "handle": "@IranIntl_En",
+              "text": "The IRGC said two oil tankers and a tugboat caught fire in the Strait of Hormuz overnight, according to a statement carr"
+            }
+          },
+          "w48": {
+            "n": 47,
+            "total": 63120,
+            "top": {
+              "views": 20038,
+              "url": "https://x.com/AMK_Mapping_/status/2118328239504658504",
+              "handle": "@AMK_Mapping_",
+              "text": "IRGC ground forces commander Mohammad Karami visited IRGC personnel stationed on islands in the Strait of Hormuz recentl"
+            }
+          },
+          "change": 3.71,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 2
+        },
+        {
+          "keyword": "Woman Life Freedom",
+          "query": "\"Woman Life Freedom\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 8,
+            "total": 23261,
+            "median": 178,
+            "top": {
+              "views": 19486,
+              "url": "https://x.com/AlinejadMasih/status/2118364252251578799",
+              "handle": "@AlinejadMasih",
+              "text": "Honored to receive the 2026 Wiesenthal Award of Valor in Toronto. I dedicate it to my hero, @mozhgankshavarz, who was ar"
+            }
+          },
+          "prev24": {
+            "n": 13,
+            "total": 1945,
+            "median": 63,
+            "top": {
+              "views": 540,
+              "url": "https://x.com/vcmancinelli/status/2117967719584711017",
+              "handle": "@vcmancinelli",
+              "text": "Honoured to support @CanadianFSWC’s Spirit of Hope, an evening centred on allyship and the values we share as Canadians."
+            }
+          },
+          "w48": {
+            "n": 21,
+            "total": 25206,
+            "top": {
+              "views": 19486,
+              "url": "https://x.com/AlinejadMasih/status/2118364252251578799",
+              "handle": "@AlinejadMasih",
+              "text": "Honored to receive the 2026 Wiesenthal Award of Valor in Toronto. I dedicate it to my hero, @mozhgankshavarz, who was ar"
+            }
+          },
+          "change": 11.96,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.84,
+          "rank": 3
+        },
+        {
+          "keyword": "monarchy",
+          "query": "(monarchy OR monarchist) (Iran OR Pahlavi OR Persian) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 17185,
+            "median": 119,
+            "top": {
+              "views": 8260,
+              "url": "https://x.com/ZvikaKlein/status/2118393717719515410",
+              "handle": "@ZvikaKlein",
+              "text": "Reza Pahlavi will accept the Friedrich Naumann Foundation’s Freedom Prize in Frankfurt on November 7 as a trustee for th"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 8573,
+            "median": 25,
+            "top": {
+              "views": 4296,
+              "url": "https://x.com/ShakdamC/status/2118029228767584546",
+              "handle": "@ShakdamC",
+              "text": "WHO GAVE THE WEST THE RIGHT TO DENY IRAN ITS KING? For nearly half a century, Western governments have preached democrac"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 25758,
+            "top": {
+              "views": 8260,
+              "url": "https://x.com/ZvikaKlein/status/2118393717719515410",
+              "handle": "@ZvikaKlein",
+              "text": "Reza Pahlavi will accept the Friedrich Naumann Foundation’s Freedom Prize in Frankfurt on November 7 as a trustee for th"
+            }
+          },
+          "change": 2.0,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.48,
+          "rank": 4
+        },
+        {
+          "keyword": "Crown Prince",
+          "query": "(\"Crown Prince\") (Reza OR Pahlavi OR Iran) lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 13585,
+            "median": 297,
+            "top": {
+              "views": 2677,
+              "url": "https://x.com/siaxares/status/2118447484523413819",
+              "handle": "@siaxares",
+              "text": "Crown Prince Reza Pahlavi: “You simply cannot allow Islamic terrorist regime to survive.” In Brussels this week he calle"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 25076,
+            "median": 53,
+            "top": {
+              "views": 10149,
+              "url": "https://x.com/JosephFordCotto/status/2118259524461035522",
+              "handle": "@JosephFordCotto",
+              "text": "🔴🚨 Crown Prince Reza Pahlavi is the leader Iran needs. 🚨Right now."
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 38661,
+            "top": {
+              "views": 10149,
+              "url": "https://x.com/JosephFordCotto/status/2118259524461035522",
+              "handle": "@JosephFordCotto",
+              "text": "🔴🚨 Crown Prince Reza Pahlavi is the leader Iran needs. 🚨Right now."
+            }
+          },
+          "change": 0.54,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.2,
+          "rank": 5
+        },
+        {
+          "keyword": "Islamic Republic",
+          "query": "\"Islamic Republic\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5185,
+            "median": 34,
+            "top": {
+              "views": 2679,
+              "url": "https://x.com/siaxares/status/2118447484523413819",
+              "handle": "@siaxares",
+              "text": "Crown Prince Reza Pahlavi: “You simply cannot allow Islamic terrorist regime to survive.” In Brussels this week he calle"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 42537,
+            "median": 61,
+            "top": {
+              "views": 30252,
+              "url": "https://x.com/ZoeKyoto/status/2118099995584803096",
+              "handle": "@ZoeKyoto",
+              "text": "Congratulations, Democrats! The terrorist Islamic Republic of Iran is explicitly celebrating its Midterm election victor"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 47722,
+            "top": {
+              "views": 30252,
+              "url": "https://x.com/ZoeKyoto/status/2118099995584803096",
+              "handle": "@ZoeKyoto",
+              "text": "Congratulations, Democrats! The terrorist Islamic Republic of Iran is explicitly celebrating its Midterm election victor"
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 6
+        },
+        {
+          "keyword": "Reza Pahlavi",
+          "query": "\"Reza Pahlavi\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4900,
+            "median": 12,
+            "top": {
+              "views": 1586,
+              "url": "https://x.com/JosephFordCotto/status/2118580386762752226",
+              "handle": "@JosephFordCotto",
+              "text": "The leader Iran truly needs is Crown Prince Reza Pahlavi. ASAP.🔴"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 13264,
+            "median": 23,
+            "top": {
+              "views": 10149,
+              "url": "https://x.com/JosephFordCotto/status/2118259524461035522",
+              "handle": "@JosephFordCotto",
+              "text": "🔴🚨 Crown Prince Reza Pahlavi is the leader Iran needs. 🚨Right now."
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 18164,
+            "top": {
+              "views": 10149,
+              "url": "https://x.com/JosephFordCotto/status/2118259524461035522",
+              "handle": "@JosephFordCotto",
+              "text": "🔴🚨 Crown Prince Reza Pahlavi is the leader Iran needs. 🚨Right now."
+            }
+          },
+          "change": 0.37,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.32,
+          "rank": 7
+        },
+        {
+          "keyword": "Pahlavi",
+          "query": "\"Pahlavi\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4811,
+            "median": 15,
+            "top": {
+              "views": 2684,
+              "url": "https://x.com/ArminNavabi/status/2118315819243606415",
+              "handle": "@ArminNavabi",
+              "text": "🚨 FROM IRAN: TWO NOTES IN ONE CAR, BOTH SAYING TRUMP MEET PAHLAVI. THEN: \"JAVID SHAH. PAYANDEH IRAN.\" This video was sen"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9232,
+            "median": 18,
+            "top": {
+              "views": 4074,
+              "url": "https://x.com/PAstynome/status/2118055099482484821",
+              "handle": "@PAstynome",
+              "text": "Why do Pahlavists believe this? I mean have they seen what the shantytowns looked like under Pahlavi? Have they seen how"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 14043,
+            "top": {
+              "views": 4074,
+              "url": "https://x.com/PAstynome/status/2118055099482484821",
+              "handle": "@PAstynome",
+              "text": "Why do Pahlavists believe this? I mean have they seen what the shantytowns looked like under Pahlavi? Have they seen how"
+            }
+          },
+          "change": 0.52,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.56,
+          "rank": 8
+        },
+        {
+          "keyword": "Javid Shah",
+          "query": "\"Javid Shah\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3108,
+            "median": 4,
+            "top": {
+              "views": 2698,
+              "url": "https://x.com/joanfromdc/status/2118496456277406109",
+              "handle": "@joanfromdc",
+              "text": "Javid Shah. 🇺🇸🇮🇷 https://t.co/MLgYk3F9Cp"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1942,
+            "median": 13,
+            "top": {
+              "views": 585,
+              "url": "https://x.com/AJMougin/status/2118130458277896487",
+              "handle": "@AJMougin",
+              "text": "JAVID SHAH ! JAVID SHABANNOU ! https://t.co/mAuvuVTDHp"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5050,
+            "top": {
+              "views": 2698,
+              "url": "https://x.com/joanfromdc/status/2118496456277406109",
+              "handle": "@joanfromdc",
+              "text": "Javid Shah. 🇺🇸🇮🇷 https://t.co/MLgYk3F9Cp"
+            }
+          },
+          "change": 1.6,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.87,
+          "rank": 9
+        },
+        {
+          "keyword": "Iranian regime",
+          "query": "\"Iranian regime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2283,
+            "median": 21,
+            "top": {
+              "views": 705,
+              "url": "https://x.com/_AhmedQuraishi/status/2118450950838841492",
+              "handle": "@_AhmedQuraishi",
+              "text": "No evidence the Iranian regime is ready to abandon the armed proxies it has used against Americans, Arabs, and Israelis "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1625,
+            "median": 14,
+            "top": {
+              "views": 558,
+              "url": "https://x.com/all_israel_news/status/2118297278758957291",
+              "handle": "@all_israel_news",
+              "text": "Citing U.S. and regional officials, the report states that Israeli officials told their American counterparts that the I"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 3908,
+            "top": {
+              "views": 705,
+              "url": "https://x.com/_AhmedQuraishi/status/2118450950838841492",
+              "handle": "@_AhmedQuraishi",
+              "text": "No evidence the Iranian regime is ready to abandon the armed proxies it has used against Americans, Arabs, and Israelis "
+            }
+          },
+          "change": 1.4,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.31,
+          "rank": 10
+        },
+        {
+          "keyword": "Iran revolution",
+          "query": "\"Iran revolution\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 5,
+            "total": 2171,
+            "median": 17,
+            "top": {
+              "views": 2092,
+              "url": "https://x.com/0xbeehive/status/2118637415988392426",
+              "handle": "@0xbeehive",
+              "text": "🚨 GOLD MAY BE REPEATING THE 1979 CYCLE Almost 50 years apart, but look at the similarities 1979: - Iran revolution - Oil"
+            }
+          },
+          "prev24": {
+            "n": 2,
+            "total": 16,
+            "median": 8,
+            "top": {
+              "views": 9,
+              "url": "https://x.com/FreeUK1249/status/2118016425529151818",
+              "handle": "@FreeUK1249",
+              "text": "Muslims can’t beat 🇺🇸 🇬🇧 directly, so they pretend to be progressive and hip. The left will vote them in because they’re"
+            }
+          },
+          "w48": {
+            "n": 7,
+            "total": 2187,
+            "top": {
+              "views": 2092,
+              "url": "https://x.com/0xbeehive/status/2118637415988392426",
+              "handle": "@0xbeehive",
+              "text": "🚨 GOLD MAY BE REPEATING THE 1979 CYCLE Almost 50 years apart, but look at the similarities 1979: - Iran revolution - Oil"
+            }
+          },
+          "change": 135.69,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.96,
+          "rank": 11
+        },
+        {
+          "keyword": "Iran protests",
+          "query": "\"Iran protests\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 5,
+            "total": 671,
+            "median": 68,
+            "top": {
+              "views": 380,
+              "url": "https://x.com/Algemeiner/status/2118423391669825895",
+              "handle": "@Algemeiner",
+              "text": "New Iran Protests: Retirees, Teachers Take to Streets Over Inflation, Unpaid Benefits https://t.co/mm9f3B7qVC"
+            }
+          },
+          "prev24": {
+            "n": 4,
+            "total": 5522,
+            "median": 560,
+            "top": {
+              "views": 4311,
+              "url": "https://x.com/IrnaEnglish/status/2118005592665051613",
+              "handle": "@IrnaEnglish",
+              "text": "Iran protests IMO’s biased reports on shipping security https://t.co/0FK7PqZeSO https://t.co/ELvIzE5lus"
+            }
+          },
+          "w48": {
+            "n": 9,
+            "total": 6193,
+            "top": {
+              "views": 4311,
+              "url": "https://x.com/IrnaEnglish/status/2118005592665051613",
+              "handle": "@IrnaEnglish",
+              "text": "Iran protests IMO’s biased reports on shipping security https://t.co/0FK7PqZeSO https://t.co/ELvIzE5lus"
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.57,
+          "rank": 12
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
 }
