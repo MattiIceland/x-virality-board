@@ -1,8 +1,8 @@
 {
   "title": "Daily X narrative digest - 2026-11-09 (Iran / Pahlavi niche)",
-  "date": "2026-11-08",
+  "date": "2026-11-09",
   "timezone": "Atlantic/Reykjavik",
-  "updated": "2026-11-09T10:58:11+00:00",
+  "updated": "2026-11-09T10:58:33+00:00",
   "brand_title": "MattiIceland X Virality Score",
   "brand_handle": "@MattiIceland",
   "operator": {
@@ -1714,16 +1714,16 @@
     "total_views": 5082761
   },
   "leaderboards": {
-    "as_of": "2026-11-08",
+    "as_of": "2026-11-09",
     "tracking_start": "2026-10-26",
     "days_included": [
-      "2026-11-02",
       "2026-11-03",
       "2026-11-04",
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-09"
     ],
     "month_days_included": [
       "2026-11-01",
@@ -1733,40 +1733,41 @@
       "2026-11-05",
       "2026-11-06",
       "2026-11-07",
-      "2026-11-08"
+      "2026-11-08",
+      "2026-11-09"
     ],
     "week": {
-      "label": "Rolling week · Nov 2–Nov 8",
+      "label": "Rolling week · Nov 3–Nov 9",
       "range": [
-        "2026-11-02",
-        "2026-11-08"
+        "2026-11-03",
+        "2026-11-09"
       ],
       "entries": [
         {
           "handle": "@realMaalouf",
           "name": "Dr. Maalouf",
-          "hits": 73,
+          "hits": 76,
           "days": 7,
-          "views": 25586452,
-          "best": 2961609,
-          "best_url": "https://x.com/realMaalouf/status/2117785136691560926"
+          "views": 30167506,
+          "best": 3881481,
+          "best_url": "https://x.com/realMaalouf/status/2119204978128502972"
         },
         {
           "handle": "@IranianPlateau",
           "name": "فلات ایران",
-          "hits": 5,
+          "hits": 7,
           "days": 5,
-          "views": 344086,
-          "best": 86369,
+          "views": 655953,
+          "best": 224733,
           "best_url": "https://x.com/IranianPlateau/status/2119120579449987419"
         },
         {
           "handle": "@khoshnevisnaser",
           "name": "Naser Khoshnevis",
-          "hits": 1,
-          "days": 1,
-          "views": 102457,
-          "best": 102457,
+          "hits": 2,
+          "days": 2,
+          "views": 212095,
+          "best": 109638,
           "best_url": "https://x.com/khoshnevisnaser/status/2119032330388226538"
         }
       ]
@@ -1775,34 +1776,34 @@
       "label": "November 2026 · from Nov 1",
       "range": [
         "2026-11-01",
-        "2026-11-08"
+        "2026-11-09"
       ],
       "entries": [
         {
           "handle": "@realMaalouf",
           "name": "Dr. Maalouf",
-          "hits": 81,
-          "days": 8,
-          "views": 27574676,
-          "best": 2961609,
-          "best_url": "https://x.com/realMaalouf/status/2117785136691560926"
+          "hits": 91,
+          "days": 9,
+          "views": 33140296,
+          "best": 3881481,
+          "best_url": "https://x.com/realMaalouf/status/2119204978128502972"
         },
         {
           "handle": "@IranianPlateau",
           "name": "فلات ایران",
-          "hits": 6,
-          "days": 6,
-          "views": 398437,
-          "best": 86369,
+          "hits": 9,
+          "days": 7,
+          "views": 777035,
+          "best": 224733,
           "best_url": "https://x.com/IranianPlateau/status/2119120579449987419"
         },
         {
           "handle": "@khoshnevisnaser",
           "name": "Naser Khoshnevis",
-          "hits": 1,
-          "days": 1,
-          "views": 102457,
-          "best": 102457,
+          "hits": 2,
+          "days": 2,
+          "views": 212095,
+          "best": 109638,
           "best_url": "https://x.com/khoshnevisnaser/status/2119032330388226538"
         }
       ]
